@@ -38,6 +38,13 @@ const columns = [
                     link: 'text-white text-base',
                     label: 'text-white text-lg',
                 }">
+                <template #right>
+                        <div>
+                            <div class="flex justify-end">
+                                <img src="../.." class="max-h-[130px]" alt="Lückenfüller" />
+                            </div>
+                        </div>
+                    </template>
                 </UFooterColumns>
             </UContainer>
         </template>

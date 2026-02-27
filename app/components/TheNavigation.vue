@@ -16,6 +16,34 @@ const items = [
         to: localePath({name: 'satzmodelle'}),
     },
     {
+        label: t('augmentedSixthChords'),
+        to: localePath({ name: 'augmented6' }),
+    },
+    {
+        label: t('fauxbourdon'),
+        to: localePath({ name: 'fauxbourdon' }),
+    },
+    {
+        label: t('fonteMonte'),
+        to: localePath({ name: 'fonteMonte' }),
+    },
+    {
+        label: t('karussell'),
+        to: localePath({ name: 'karussell' }),
+    },
+    {
+        label: t('lamento'),
+        to: localePath({ name: 'faq-lamento' }),
+    },
+    {
+        label: t('quintfall'),
+        to: localePath({ name: 'quintfall' }),
+    },
+    {
+        label: t('quintstieg'),
+        to: localePath({ name: 'quintstieg' }),
+    },
+    {
         label: t('about'),
         to: localePath({name: 'about'}),
     },

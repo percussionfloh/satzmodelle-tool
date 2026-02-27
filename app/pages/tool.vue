@@ -34,34 +34,7 @@ const gymel                 = ref(false);
 const majorMinorParallelism = ref(false);        // MajorMinorParallelsim
 
 const items: NavigationMenuItem[] = [
-        {
-        label: t('augmentedSixthChords'),
-        to: localePath({ name: 'faq' }),
-    },
-    {
-        label: t('initialVoicings'),
-        to: localePath({ name: 'faq-initial-voicings' }),
-    },
-    {
-        label: t('cadenzaDoppia'),
-        to: localePath({ name: 'faq-cadenza-doppia' }),
-    },
-    {
-        label: t('syncopations'),
-        to: localePath({ name: 'faq-syncopations' }),
-    },
-    {
-        label: t('ascendingSyncopations'),
-        to: localePath({ name: 'faq-ascending-syncopations' }),
-    },
-    {
-        label: t('suspensions'),
-        to: localePath({ name: 'faq-suspensions' }),
-    },
-    {
-        label: t('voiceExchange'),
-        to: localePath({ name: 'faq-voice-exchange' }),
-    },
+
 ];
 
 </script>
@@ -96,7 +69,6 @@ const items: NavigationMenuItem[] = [
             <UButton :color="descending4Ascending2 ? 'primary' : 'neutral'" @click="descending4Ascending2 = !descending4Ascending2">Descending 4 and Ascending 2</UButton>
             <UButton :color="gymel ? 'primary' : 'neutral'" @click="gymel = !gymel">Gymel</UButton>
             <UButton :color="majorMinorParallelism ? 'primary' : 'neutral'" @click="majorMinorParallelism = !majorMinorParallelism">Major-Minor Parallelism</UButton>
-        </div>
-        {{ satzmodelle }}
+        </div> 
     </div>
 </template>

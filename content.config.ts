@@ -9,6 +9,7 @@ export default defineContentConfig({
                 title: z.string(),
                 tags: z.array(z.string()),
                 scorePath: z.string(),
+                homePath: z.string(),
             }),
         }),
     },

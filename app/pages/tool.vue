@@ -1,6 +1,7 @@
 <script setup>
 const { t } = useI18n();
 const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
+const localePath = useLocalePath();
 
 const tags = [...new Set(satzmodelle.value.flatMap(item => item.tags ?? []))]
 const selectedTags = ref([]);
@@ -12,6 +13,7 @@ function toggleTag(tag) {
         selectedTags.value.push(tag);
     }
 }
+
 </script>
 
 <template class="flex flex-wrap gap-6">
@@ -22,7 +24,7 @@ function toggleTag(tag) {
         <ul v-if="selectedTags.length > 0" class="flex flex-wrap gap-6 mt-6">
             <template v-for="satzmodell in satzmodelle" :key="satzmodell">
                 <li v-if="selectedTags.every(tag => satzmodell.tags?.includes(tag))">
-                        <UBadge color="primary" size="xl">{{ satzmodell.title }}</UBadge>
+                        <UButton target="_blank" :to="localePath(satzmodell.homePath)" color="primary" size="xl">{{ satzmodell.title }}</UButton>
                 </li>
             </template>
         </ul>

@@ -40,7 +40,7 @@ const items = [
         to: localePath({ name: 'lamento' }),
     },
     {
-        label: t('quintfall'),
+        label: t('Quintfall'),
         to: localePath({ name: 'quintfall' }),
     },
     {

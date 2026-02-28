@@ -6,11 +6,11 @@ start: Start
 importantLinks: Wichtige Links
 legalNotice: Impressum
 siteMap: Sitemap
-ascending: Aufwärts
-descending: Abwärts
+ascending: aufwärts
+descending: abwärts
 without5: Ohne Quinte
 with5: mit Quinte
-with4: Mit Quarte
+with4: mit Quarte
 5-6 motion: 5-6 Seitenbewegung (abwechselnd Grund- und Sextakkorde)
 fauxbourdon: Fauxbourdon
 second steps in bass: Sekundschritte im Bass
@@ -26,13 +26,13 @@ ends on I: endet auf I
 ends on V: endet auf V
 descending fifths: absteigende Quinten
 ascending fourths: aufsteigende Quarten
-ascending minor seconds: aufsteigende kleine Sekunden
+ascending minor seconds in bass: aufsteigende kleine Sekunden im Bass
 -m2 in Bass: absteigende kleine Sekunde im Bass
 endsInDominant: endet auf Dominantklang
 D7sound: Dominantseptakkordklang
 romanesca: Romanesca
-4suspensions: 4 Vorhalte
-9suspensions: 9 Vorhalte
+4suspensions: Quartvorhalte
+9suspensions: Nonvorhalte
 descendig 4 and ascending 2: absteigende Quarten und aufsteigende Sekunden im Bass
 gymel: Gymel
 MajorMinorParallelsim: Dur-Moll-Parallelismus
@@ -53,3 +53,4 @@ tritone steps in bass: Tritonusschritte im Bass
 3-5-chords: Grundakkorde
 ascending fifths: ansteigende Quinten
 passing notes: Durchgänge
+imitations: Imitationen

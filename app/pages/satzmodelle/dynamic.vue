@@ -1,4 +1,8 @@
 <script setup>
+definePageMeta({
+    layout: 'satzmodelle',
+});
+
 const { data: satzmodelle } = await useAsyncData('satzmodelle', () => queryCollection('satzmodelle').all());
 const { localScoreUrlGenerator } = useScoreUrlGenerator();
 </script>

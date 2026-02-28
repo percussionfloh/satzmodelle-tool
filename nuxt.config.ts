@@ -33,4 +33,13 @@ export default defineNuxtConfig({
             exclude: ['verovio'],
         },
     },
-});
+    ui: {
+    theme: {
+      colors: [
+        'primary',
+        'secondary',
+        'neutral'
+      ]
+    }
+  }
+})

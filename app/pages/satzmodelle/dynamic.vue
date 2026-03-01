@@ -1,4 +1,5 @@
 <script setup>
+const localePath = useLocalePath();
 definePageMeta({
     layout: 'satzmodelle',
 });
@@ -13,6 +14,7 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
         <div v-for="satzmodell in satzmodelle">
             <h2>{{ satzmodell.title }}</h2>
             <VerovioCanvas :url="localScoreUrlGenerator(satzmodell.scorePath)" />
+            <UButton target="_blank" :to="localePath(satzmodell.homePath)">Ansehen</UButton>
         </div>
     </UContainer>
 </template>

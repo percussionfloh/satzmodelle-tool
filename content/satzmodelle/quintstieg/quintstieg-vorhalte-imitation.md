@@ -1,4 +1,5 @@
+---
 title: Quintanstieg mit Vorhalten und Imitationen
 tags: [3-5-chords, ascending, ascending fifths, imitations, 4suspensions, suspensions, 4Jump in cantus]
 scorePath: quintstieg-vorhalte-imitation.krn
-homePath: '/quintstieg'
+---

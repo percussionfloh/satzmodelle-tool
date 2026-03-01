@@ -24,7 +24,7 @@ function toggleTag(tag) {
         <ul v-if="selectedTags.length > 0" class="flex flex-wrap gap-6 mt-6">
             <template v-for="satzmodell in satzmodelle" :key="satzmodell">
                 <li v-if="selectedTags.every(tag => satzmodell.tags?.includes(tag))">
-                        <UButton target="_blank" :to="localePath(satzmodell.homePath)" color="primary" size="xl">{{ satzmodell.title }}</UButton>
+                    <UButton target="_blank" :to="localePath(satzmodell.homePath)" color="primary" size="xl">{{ satzmodell.title }}</UButton>
                 </li>
             </template>
         </ul>

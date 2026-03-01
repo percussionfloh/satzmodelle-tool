@@ -25,7 +25,7 @@ const items = [
     },
     {
         label: t('fonteMonte'),
-        to: localePath({ name: 'fonteMonte' }),
+        to: localePath({ name: 'fonte-monte' }),
     },
     {
         label: t('karussell'),

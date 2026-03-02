@@ -1,4 +1,6 @@
 <script setup>
+const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
+
 definePageMeta({
     layout: 'satzmodelle',
 });

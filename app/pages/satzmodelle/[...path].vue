@@ -1,5 +1,9 @@
 <script setup>
-const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
+const { data: satzmodelle } = await useAsyncData(`content/satzmodelle/*`, () => queryCollection('satzmodelle').all());
+const { t } = useI18n();
+
+
+const localePath = useLocalePath();
 
 definePageMeta({
     layout: 'satzmodelle',
@@ -10,20 +14,15 @@ const { data: page } = await useAsyncData(route.path, () => {
     return queryCollection('satzmodelle').path(route.path).first()
 });
 
-if (!page.value) {
-    throw createError({
-        statusCode: 404,
-        statusMessage: 'Page Not Found',
-    });
-}
+console.log(page);
+
 
 const { localScoreUrlGenerator } = useScoreUrlGenerator();
+
 </script>
 
 <template>
-    <div>
-        <h1>{{ page.title }}</h1>
-        <VerovioCanvas :url="localScoreUrlGenerator(page.scorePath)" />
-        <ContentRenderer v-if="page" :value="page" />
-    </div>
+    <UContainer>
+        <h1 class="text-2xl font-bold" >{{ page }}</h1>
+    </UContainer>
 </template>

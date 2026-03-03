@@ -10,6 +10,7 @@ export default defineContentConfig({
                 tags: z.array(z.string()),
                 scorePath: z.string(),
                 homePath: z.string(),
+                sound: z.string(),
             }),
         }),
     },

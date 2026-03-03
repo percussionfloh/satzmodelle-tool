@@ -1,4 +1,6 @@
 <script setup>
+const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
+
  const { t } = useI18n();
 </script>
 
@@ -10,6 +12,7 @@
                     <h2>Fauxbourdon aufwärts, 5-6-Seitenbewegung</h2>
                     <VerovioCanvas view-mode="horizontal" url="/kern/fobo-5-6seitenbewegung.krn" :scale="35" :page-margin="20" />
                     <!-- <MidiPlayer url="/kern/fobo-5-6seitenbewegung.krn" class="text-2xl"/> -->
+                    <p>{{ satzmodelle.title }}</p>
                 </div>
                 <div class="flex flex-col gap-8">
                     <h2>Fauxbourdon abwärts, 7-6-Konsekutive</h2>

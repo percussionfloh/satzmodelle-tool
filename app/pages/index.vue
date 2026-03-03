@@ -7,24 +7,17 @@ const localePath = useLocalePath();
 
 <template>
     <div class="flex flex-col items-center gap-8 mt-8">
+        <div>
+            <div class="flex flex-col">
+                <h1 class="text-2xl font-bold" >Über das Projekt</h1>
+                <p>Dieses Projekt hat das Ziel, Studierenden einen möglichst barrierefreien Einstieg in die wundervolle Welt der Satzmodelle zu ermöglichen.
+                    Das soll vor allem durch die Bereitstellung von unterschiedlichen Kompliziertheitsgraden der Erklärung dieser Satzmodelle erreicht werden. 
+                </p>
+            </div>
+        </div>
         <UButton to="/tool" trailing-icon="i-lucide-arrow-right" size="xl">Let's go!</UButton>
     </div>
     <div class="flex flex-col items-center gap-8 mt-8">
         <UButton :to="localePath('/satzmodelle')" size="xl" trailing-icon="i-lucide-arrow-right">Überblick über die Satzmodelle</UButton>
     </div>
 </template>
-
-<!-- <template>
-    <UCard v-for="satzmodelle in data">
-        <div class="flex flex-col gap-8">
-            <h1 class="text-3xl font-bold">Satzmodelle</h1>
-            <h2>French augmented Sixth</h2>
-        <div class="ml-auto">
-            <NuxtLink :to="localePath('/satzmodelle/' + satzmodelle.slug)" class="flex flex-col gap-4">
-                    {{ satzmodelle.title }}
-                    <VerovioCanvas  view-mode="horizontal" :url="satzmodelle.scorePath" :scale="35" :page-margin="20" />
-            </NuxtLink>
-        </div>
-        </div>
-    </UCard>
-</template> -->

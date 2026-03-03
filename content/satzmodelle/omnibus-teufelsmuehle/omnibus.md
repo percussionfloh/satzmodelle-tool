@@ -3,6 +3,7 @@ title: Omnibus
 tags: [chromatic steps in bass]
 scorePath: omnibus.krn
 ---
+
 Grundlage des Modells ist ein Stimmtausch zwischen dem Grund- und dem Terzton eines Dominantseptakkordes, an dem der Bass beteiligt ist. Die Terzsprünge in Gegenbewegung, die dabei entstehen, werden durch Halbtonschritte ausgefüllt, während die anderen Stimmen liegenbleiben. Dies ergibt eine Folge von fünf Durchgangsakkorden, die den Dominantseptakkord diminuieren und auf diese Weise verlängern (prolongieren).
 
 .

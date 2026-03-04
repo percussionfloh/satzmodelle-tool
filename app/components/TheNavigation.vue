@@ -3,7 +3,7 @@ const { t } = useI18n();
 const localePath = useLocalePath();
 
 const items = [
-    {
+    [{
         label: t('start'),
         to: localePath({name: 'index'}),
     },
@@ -14,47 +14,11 @@ const items = [
     {
         label: t('sequences'),
         to: localePath({name: 'satzmodelle'}),
-    },
-    {
-        label: t('augmentedSixthChords'),
-        to: localePath({ name: 'augmented6' }),
-    },
-    {
-        label: t('fauxbourdon'),
-        to: localePath({ name: 'fauxbourdon' }),
-    },
-    {
-        label: t('fonteMonte'),
-        to: localePath({ name: 'fonte-monte' }),
-    },
-    {
-        label: t('karussell'),
-        to: localePath({ name: 'karussell' }),
-    },
-    {
-        label: t('romanesca'),
-        to: localePath({ name: 'romanesca' }),
-    },
-    {
-        label: t('lamento'),
-        to: localePath({ name: 'lamento' }),
-    },
-    {
-        label: ('Quintfall'),
-        to: localePath({ name: 'quintfall' }),
-    },
-    {
-        label: t('quintstieg'),
-        to: localePath({ name: 'quintstieg' }),
-    },
-    {
+    }],
+    [{
         label: t('about'),
-        to: localePath({name: 'about'}),
-    },
-    {
-        label: t('faq'),
-        to: localePath({name: 'faq'}),
-    },
+        to: localePath({name: 'index'}),
+    }],
 ];
 </script>
 

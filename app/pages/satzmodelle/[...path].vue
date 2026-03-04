@@ -1,7 +1,6 @@
 <script setup>
 const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
 
-const uselocalePath = useLocalePath
 
 definePageMeta({
     layout: 'satzmodelle',
@@ -17,15 +16,6 @@ if (!page.value) {
         statusCode: 404,
         statusMessage: 'Page Not Found',
     });
-}
-
-function generateSatzmodellParentPath(satzmodell) {
-    const path = satzmodell.path;
-    // keep only 3 elements. e.g. ['', 'satzmodelle', 'romanesca']
-    const parentPage = satzmodell.path.split('/').slice(0, 3);
-    // convert array to path. e.g. /satzmodelle/romanesca
-    const parentPagePath = parentPage.join('/');
-    return localePath(parentPagePath);
 }
 
 const { localScoreUrlGenerator } = useScoreUrlGenerator();

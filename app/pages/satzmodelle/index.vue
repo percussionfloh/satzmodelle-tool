@@ -10,11 +10,10 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
 
 <template>
     <UContainer>
-        <h1>Satzmodelle</h1>
+        <h1 class="font-bold text-3xl">Satzmodelle</h1>
         <div v-for="satzmodell in satzmodelle">
-            <h2>{{ satzmodell.title }}</h2>
+            <h2 class="font-bold text-lg">{{ satzmodell.title }}</h2>
             <VerovioCanvas :url="localScoreUrlGenerator(satzmodell.scorePath)" />
-           <UButton target="_blank" :to="localePath({ name: 'satzmodelle-path', params: { path: satzmodell.path } })">Ansehen</UButton>        
         </div>
     </UContainer>
 </template>

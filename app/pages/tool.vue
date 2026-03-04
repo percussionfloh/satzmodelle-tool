@@ -1,8 +1,5 @@
 <script setup>
 
-definePageMeta({
-    layout: 'satzmodelle',
-});
 
 const { t } = useI18n();
 const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());

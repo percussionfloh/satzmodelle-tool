@@ -28,7 +28,7 @@ descending fifths: absteigende Quinten
 ascending fourths: aufsteigende Quarten
 ascending minor seconds in bass: aufsteigende kleine Sekunden im Bass
 -m2 in Bass: absteigende kleine Sekunde im Bass
-endsInDominant: endet auf Dominantklang
+endsInDominant: endet auf Dominantklang (mit 7)
 D7sound: Dominantseptakkordklang
 romanesca: Romanesca
 4suspensions: Quartvorhalte
@@ -44,6 +44,7 @@ lamento: Lamentobass
 quintstieg: Quintstieg
 seventh suspensions: Septimvorhalte
 suspensions: Vorhalte
+chromatic steps in discant: chromatische Schritte in der Oberstimme
 chromatic steps in bass: chromatische Schritte im Bass
 quintfall: Quintfall (des Fundamentbasses)
 3-6-chords: abwechselnd Grund- und Sextakkorde

@@ -3,9 +3,10 @@ const { data: satzmodelleNavigation } = await useAsyncData('satzmodelleNavigatio
     return queryCollectionNavigation('satzmodelle');
 });
 
+
 function convertContentNavigationToNavigationMenu(items) {
     return items.map(item => ({
-        label: item.title,
+        label: $t(item.title),
         to: item.page === false ? undefined : item.path,
         children: item.children ? convertContentNavigationToNavigationMenu(item.children) : undefined,
     }));

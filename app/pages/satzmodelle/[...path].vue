@@ -1,6 +1,8 @@
 <script setup>
 const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
 
+const uselocalePath = useLocalePath
+
 definePageMeta({
     layout: 'satzmodelle',
 });
@@ -17,12 +19,21 @@ if (!page.value) {
     });
 }
 
+function generateSatzmodellParentPath(satzmodell) {
+    const path = satzmodell.path;
+    // keep only 3 elements. e.g. ['', 'satzmodelle', 'romanesca']
+    const parentPage = satzmodell.path.split('/').slice(0, 3);
+    // convert array to path. e.g. /satzmodelle/romanesca
+    const parentPagePath = parentPage.join('/');
+    return localePath(parentPagePath);
+}
+
 const { localScoreUrlGenerator } = useScoreUrlGenerator();
 </script>
 
 <template>
-    <div>
-        <h1>{{ page.title }}</h1>
+    <div class="flex flex-col gap-8">
+        <h1 class="font-bold text-3xl">{{page.title}}</h1>
         <VerovioCanvas :url="localScoreUrlGenerator(page.scorePath)" />
         <ContentRenderer v-if="page" :value="page" />
     </div>

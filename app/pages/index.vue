@@ -8,10 +8,10 @@ const localePath = useLocalePath();
 <template>
     <div class="flex flex-col items-center gap-8 mt-8">
         <div>
-            <div class="flex flex-col">
+            <div class="flex flex-col px-20">
                 <h1 class="text-2xl font-bold" >Über das Projekt</h1>
-                <p>Dieses Projekt hat das Ziel, Studierenden einen möglichst barrierefreien Einstieg in die wundervolle Welt der Satzmodelle zu ermöglichen.
-                    Das soll vor allem durch die Bereitstellung von unterschiedlichen Kompliziertheitsgraden der Erklärung dieser Satzmodelle erreicht werden. 
+                <p>Dieses Projekt hat das Ziel, Studierenden einen möglichst barrierefreien Einstieg in die wundervolle Welt der Satzmodelle zu ermöglichen. <br>
+                    Das soll vor allem durch die Bereitstellung von unterschiedlichen Kompliziertheitsgraden der Erklärung dieser Satzmodelle erreicht werden.
                 </p>
             </div>
         </div>

@@ -1,6 +1,6 @@
 ---
 title: Omnibus
-tags: [chromatic steps in bass, chromatic steps in discant, D7sound, endsInDominant, ]
+tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending]
 scorePath: omnibus.krn
 ---
 

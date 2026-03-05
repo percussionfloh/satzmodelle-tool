@@ -1,5 +1,5 @@
 ---
 title: La Folia
-tags: [ascending Romanesca]
+tags: [mittel ascending Romanesca]
 scorePath: la-folia.krn
 ---

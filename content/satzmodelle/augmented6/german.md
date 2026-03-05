@@ -1,11 +1,22 @@
 ---
 title: Deutscher Übermäßiger Quintsextakkord
-tags: [descending, -m2 in Bass, endsInDominant, D7sound, ends on V, with5, soprano cadences]
+tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, mittel ends on V, wenig with5, mittel soprano cadences]
 scorePath: german.krn
-homePath: '/augmented6'
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.
+::accordion
+---
+defaultValue:
+  - 'null'
+---
+::accordion-item{label="Anfängerinnen-Level"}
+- übermäßige Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI. Stufe in Moll vor
+- schreitet danach meistens zur V. Stufe (Dominante) fort
+- im Deutschen übermäßigen Quintsextkakkord klingt zusätzlich eine Quinte, d.h. er klingt wie ein Durseptakkord
+- Tipp: man findet ihn oft am Ende einer Durchführung
+::
+
+::accordion-item{label="Profi-Level"}
+Die übermäßigen Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI Stufe in Moll vor. Sie schreiten meistens zur V.  Stufe fort. Er kann allerdings auch anders weitergeführt werden, z.B. in die Tonika oder in den [Neapolitaner](https://www.musiklexikon.ac.at/ml/musik_M/Menuett.xml). Im Deutschen übermäßigen Quintsextkakkord klingt zusätzlich eine Quinte, d.h. er klingt wie ein Durseptakkord. Die Quintparallelen, die beim Auflösen in die Dominante entstehen, sind beispielsweise bei Mozart aber oft gesehen: Die sogenannten [Mozartquinten](https://www.musiklexikon.ac.at/ml/musik_M/Menuett.xml).
+- Tipp: man findet ihn oft am Ende einer Durchführung
+::

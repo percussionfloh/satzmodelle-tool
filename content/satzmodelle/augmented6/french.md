@@ -1,11 +1,22 @@
 ---
 title: Französischer Übermäßiger Quartsextakkord
-tags: [descending, -m2 in Bass, endsInDominant, D7sound, without5, with4, ends on V, soprano cadences]
-scorePath: french.krn
-homePath: '/augmented6'
+tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, wenig without5, wenig with4, mittel ends on V, mittel soprano cadences]
+scorePath: french.krn 
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod
-tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At
-vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
-no sea takimata sanctus est Lorem ipsum dolor sit amet.
+::accordion
+---
+defaultValue:
+  - 'null'
+---
+::accordion-item{label="Anfängerinnen-Level"}
+- übermäßige Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI. Stufe in Moll vor
+- schreitet danach meistens zur V. Stufe (Dominante) fort
+- im Französischen übermäßigen Terzquartkakkord klingt zusätzlich eine Quarte
+- Tipp: man findet ihn oft bei Claude Debussy
+::
+
+::accordion-item{label="Profi-Level"}
+Die übermäßigen Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI Stufe in Moll vor. Sie schreiten meistens zur V.  Stufe fort. Er kann allerdings auch anders weitergeführt werden, z.B. in die Tonika oder in den [Neapolitaner](https://www.musiklexikon.ac.at/ml/musik_M/Menuett.xml). Im Französischen übermäßigen Terzquartakkord klingt zusätzlich eine Quarte. 
+- Tipp: man findet ihn oft bei Claude Debussy
+::

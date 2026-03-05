@@ -1,5 +1,5 @@
 ---
 title: Diatonischer Quintfall mit Septakkorden
-tags: [quintfall, descending, descending fifths, ascending fourths, seventh chords, suspensions, seventh suspensions]
+tags: [mittel quintfall, wichtig descending, mittel descending fifths, mittel ascending fourths, mittel seventh chords, wenig suspensions, wenig seventh suspensions]
 scorePath: quintfall-dia-7.krn
 ---

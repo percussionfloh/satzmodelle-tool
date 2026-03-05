@@ -1,6 +1,6 @@
 ---
 title: Fonte mit Bassklauseln
-tags: [descending, bass cadences, dominant-tonika, ends on I, quintfall, ends on V, descending fifths, ascending fourths]
+tags: [wichtig descending, mittel bass cadences, mittel dominant-tonika, mittel ends on I, mittel quintfall, mittel ends on V, mittel descending fifths, mittel ascending fourths]
 scorePath: fonte-5-1.krn
 sound: https://www.youtube.com/watch?v=r6Llu_uGY2U
 ---
@@ -9,7 +9,7 @@ sound: https://www.youtube.com/watch?v=r6Llu_uGY2U
 ::accordion
 ---
 defaultValue:
-  - '1'
+  - 'null'
 ---
 ::accordion-item{label="Anfängerinnen-Level"}
 - Die Begriffe Monte – Fonte kommen von [Joseph Riepel](https://www.deutsche-biographie.de/gnd11860094X.html#adbcontent).

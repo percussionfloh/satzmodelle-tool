@@ -1,5 +1,5 @@
 ---
 title: Monte mit Bassklauseln
-tags: [dominant-tonika,  descending fifths, ascending fourths, quintfall, bass cadences, ascending]
+tags: [mittel dominant-tonika,  mittel descending fifths, mittel ascending fourths, mittel quintfall, mittel bass cadences, wichtig ascending]
 scorePath: monte-5-1.krn
 ---

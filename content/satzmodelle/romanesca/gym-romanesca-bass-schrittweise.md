@@ -1,5 +1,5 @@
 ---
 title: Romanesca mit schrittweise absteigendem Bass
-tags: [descending, romanesca, second steps in Bass, 5-6 motion]
+tags: [wichtig descending, mittel romanesca, mittel second steps in Bass, wenig 5-6 motion]
 scorePath: gym-romanesca-bass-schrittweise.krn
 ---

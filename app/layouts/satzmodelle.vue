@@ -16,7 +16,7 @@ const items = convertContentNavigationToNavigationMenu(satzmodelleNavigation.val
 </script>
 
 <template>
-    <div class="bg-white">    
+    <div class="bg-white z--1">    
         <NuxtLayout name="default">
             <UContainer>
                 <div class="flex flex-col gap-6 lg:flex-row">

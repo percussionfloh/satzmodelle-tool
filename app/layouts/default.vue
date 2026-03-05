@@ -9,7 +9,6 @@ useHead({
 </script>
 
 <template>
-    <div class="bg-white">    
         <UApp :locale="de">
             <div class="flex flex-col min-h-screen">
                 <TheHeader />
@@ -20,7 +19,6 @@ useHead({
                 <TheFooter class="mt-auto" />
             </div>
         </UApp>
-    </div>
 </template>
 
 <style>

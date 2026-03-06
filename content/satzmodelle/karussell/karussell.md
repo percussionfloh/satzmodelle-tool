@@ -1,6 +1,6 @@
 ---
 title: Karussell
-tags: [mittel soprano cadences, mittel second steps in bass, wichtig ascending, wichtig descending, mittel 6jump in bass down, wenig syncopation, wenig syncopation chain]
+tags: [mittel soprano cadences, mittel second steps in bass, wichtig ascending, wichtig descending, mittel 6jump in bass down, mittel syncopation, mittel syncopation chain]
 scorePath: karussell.krn
 ---
 

@@ -1,17 +1,8 @@
 <script setup>
 const localePath = useLocalePath();
-
 const { t } = useI18n();
 
 const columns = [
-    {
-        label: t('start'),
-        to: localePath('index'),
-    },
-    {
-        label: t('faq'),
-        to: localePath('faq'),
-    },
     {
         label: t('legalNotice'),
         to: localePath('legal-notice'),

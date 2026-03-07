@@ -18,6 +18,10 @@ const items = [
     [{
         label: t('about'),
         to: localePath({name: 'index'}),
+    },
+    {
+        label: t('legalNotice'),
+        to: localePath('legal-notice'),
     }],
 ];
 </script>

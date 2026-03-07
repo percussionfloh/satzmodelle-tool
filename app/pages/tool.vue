@@ -50,13 +50,13 @@ const visibleTags = computed(() => {
 <template class="flex flex-wrap gap-6">
     <div class="flex flex-col items-center gap-8 mt-8 px-20">
         <div class="flex flex-wrap gap-3">
-            <UButton v-for="tag in visibleTags.stage1" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
+            <UButton size="xl"v-for="tag in visibleTags.stage1" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
         </div>
         <div class="flex flex-wrap gap-3">
-            <UButton v-for="tag in visibleTags.stage2" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
+            <UButton size="xl"v-for="tag in visibleTags.stage2" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
         </div>
         <div class="flex flex-wrap gap-3">
-            <UButton v-for="tag in visibleTags.stage3" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
+            <UButton size="xl" v-for="tag in visibleTags.stage3" :color="selectedTags.includes(tag) ? 'primary' : 'neutral'" @click="toggleTag(tag)" :label="$t(tag)" />
         </div>
 
         <ul v-if="selectedTags.length > 0" class="flex flex-wrap gap-6 mt-6">

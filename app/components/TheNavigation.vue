@@ -14,6 +14,10 @@ const items = [
     {
         label: t('sequences'),
         to: localePath({name: 'satzmodelle'}),
+    },
+    {
+        label: t('glossarLiteratur'),
+        to: localePath({name: 'glossarLiteratur'}),
     }],
     [{
         label: t('about'),

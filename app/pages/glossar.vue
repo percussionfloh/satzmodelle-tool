@@ -10,6 +10,7 @@ const localePath = useLocalePath();
         Mozartquinten
         Neapolitaner
         passus duriusculus
+        Quintfallsequenz
     </p>
 </div>
 </template>

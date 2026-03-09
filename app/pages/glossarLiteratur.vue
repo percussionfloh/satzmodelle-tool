@@ -13,4 +13,10 @@ const localePath = useLocalePath();
         Quintfallsequenz
     </p>
 </div>
+<div>
+    <h1>Literatur</h1>
+    <p>
+        Drescher, Wolfgang (2019) "Satzmodelle und Harmonische Wendungen"
+    </p>
+</div>
 </template>

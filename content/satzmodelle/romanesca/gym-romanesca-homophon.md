@@ -17,5 +17,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Auch Dur-Moll-Parallelismus genannt, weil die Wendung I - V immer in Paaren erst in einer Tonart erklingt und dann in der entsprechenden Paralleltonart. Hier: C-Dur - a-Moll, F-Dur und d-Moll. Im dreistimmigen Satz werden die Oberstimmen am besten als Terzparallelen gesetzt [Gymel](app/pages/glossarLiteratur).
+Auch Dur-Moll-Parallelismus genannt, weil die Wendung I - V immer in Paaren erst in einer Tonart erklingt und dann in der entsprechenden Paralleltonart. Hier: C-Dur - a-Moll, F-Dur und d-Moll. Im dreistimmigen Satz werden die Oberstimmen am besten als Terzparallelen gesetzt [Gymel](glossarLiteratur).¹
 ::
+
+::
+
+¹Drescher, 2019

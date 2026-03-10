@@ -11,5 +11,5 @@ defaultValue:
 ---
 ::accordion-item{label="Erklärung"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde
-- In der Aufwärtsbewegung kann die 5–6-Seitenbewegung verwendet werden, um Quintparallelen zu vermeiden
+- In der Aufwärtsbewegung kann die 5-6-Seitenbewegung verwendet werden, um Quintparallelen zu vermeiden
 ::

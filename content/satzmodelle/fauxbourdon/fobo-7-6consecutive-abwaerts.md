@@ -11,5 +11,5 @@ defaultValue:
 ---
 ::accordion-item{label="Erklärung"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde
-- In der Abwärtsbewegung kommt häufig eine Synkopenkette mit einer 7-6-Konsecutive vor
+- In der Abwärtsbewegung kommt häufig eine Synkopenkette mit einer 7-6-Konsekutive vor
 ::

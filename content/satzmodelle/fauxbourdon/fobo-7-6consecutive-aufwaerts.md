@@ -11,5 +11,5 @@ defaultValue:
 ---
 ::accordion-item{label="Erklärung"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde
-- aufwärts kann die 7-6-Konsecutive verwendet werden. Dafür muss die Auflösung der Dissonanz verkürzt werden und nach oben springen, um jeweils die nächste Septime vozubereiten.
+- aufwärts kann die 7-6-Konsekutive verwendet werden. Dafür muss die Auflösung der Dissonanz verkürzt werden und nach oben springen, um jeweils die nächste Septime vozubereiten.
 ::

@@ -17,8 +17,10 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Einen Lamentobass nennt man, wenn der Bass schrittweise von der I. Stufe zur V. absteigt. Dieses Modell kommt vorallem in einem Moll-Kontext vor. Der Bass wird gemäss der Oktavregel
-harmonisiert und hat zur V. Stufe hin eine phrygische Wendung.
-Dieses Modell lässt sich auch mit einer 7-6-Konsecutive anreichern.
+Einen Lamentobass nennt man, wenn der Bass schrittweise von der I. Stufe zur V. absteigt. Dieses Modell kommt vorallem in einem Moll-Kontext vor. Der Bass wird gemäss der Oktavregel harmonisiert und hat zur V. Stufe hin eine phrygische Wendung.
+Dieses Modell lässt sich auch mit einer 7-6-Konsecutive anreichern.¹
 ::
 
+::
+
+¹Drescher, 2019

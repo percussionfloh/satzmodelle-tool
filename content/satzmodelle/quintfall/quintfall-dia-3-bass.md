@@ -19,5 +19,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können. Hier ergeben Fundamentbässe immer noch eine Quintfallsequenz, diese ist aber mit dem Gegenschrittmodell 3 - 6 in den Aussenstimmen ausgearbeitet. So ergeben sich abwechselnd Grundakkorde und Sextakkorde.
+Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können. Hier ergeben Fundamentbässe immer noch eine Quintfallsequenz, diese ist aber mit dem Gegenschrittmodell 3 - 6 in den Aussenstimmen ausgearbeitet. So ergeben sich abwechselnd Grundakkorde und Sextakkorde.¹
 ::
+
+::
+
+¹Drescher, 2019

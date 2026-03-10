@@ -17,4 +17,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier wird der Quintanstieg mit Quartvorhalten angereichert. Damit der neue Quartvorhalt rechtzeitig vorbereitet werden kann, entsteht in der Melodieführung ein Quartsprung aufwärts.
+Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier wird der Quintanstieg mit Quartvorhalten angereichert. Damit der neue Quartvorhalt rechtzeitig vorbereitet werden kann, entsteht in der Melodieführung ein Quartsprung aufwärts.¹
+::
+
+::
+
+¹Drescher, 2019

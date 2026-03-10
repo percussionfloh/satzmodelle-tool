@@ -17,5 +17,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können. Hier klingen auch Septakkorde (klein und groß).
+Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können.¹ Hier klingen auch Septakkorde (klein und groß).
 ::
+
+::
+
+¹Drescher, 2019

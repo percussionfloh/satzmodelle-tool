@@ -16,5 +16,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Bei der realen Quintfallsequenz fällt der Bass von Ton zu Ton reine Quinten. Dieses Modell moduliert deswegen schnell in entfernte Tonarten.
+Bei der realen Quintfallsequenz fällt der Bass von Ton zu Ton reine Quinten. Dieses Modell moduliert deswegen schnell in entfernte Tonarten.¹
 ::
+
+::
+
+¹Drescher, 2019

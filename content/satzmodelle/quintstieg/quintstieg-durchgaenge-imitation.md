@@ -15,5 +15,9 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier ist die Sequenz mit Durchgängen verziert, die auch imitiert werden.
+Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier ist die Sequenz mit Durchgängen verziert, die auch imitiert werden.¹
 ::
+
+::
+
+¹Drescher, 2019

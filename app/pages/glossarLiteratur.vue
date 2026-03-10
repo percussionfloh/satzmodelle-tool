@@ -11,7 +11,7 @@ const localePath = useLocalePath();
                     <div class="flex flex-col gap-5">
                         <div>
                             <h2 class="font-bold text-2xl">Menuett</h2>
-                                <p class="text-lg">Höfischer Tanz, meist in 3/4, musikalische Form.</p>
+                                <p class="text-lg">Tanz, meist in 3/4, musikalische Form.</p>
                         </div>
                         <div>
                             <h2 class="font-bold text-2xl">Mozartquinten</h2>
@@ -19,23 +19,19 @@ const localePath = useLocalePath();
                         </div>
                         <div>
                         <h2 class="font-bold text-2xl">Neapolitaner</h2>
-                            <p class="text-lg">Auf der Subdominante klingt anstatt der Qunite eine kleine Sexte.</p>    
+                            <p class="text-lg">Auf der Subdominante klingt anstatt der Quinte eine kleine Sexte.</p>    
                         </div>
                         <div>  
                         <h2 class="font-bold text-2xl">Quintfallsequenz</h2>
-                            <p class="text-lg"></p> 
+                            <p class="text-lg">Sequenz, deren Fundamentbass in Quinten fällt.</p> 
                         </div>
                         <div>                     
                         <h2 class="font-bold text-2xl">passus duriusculus</h2>
-                            <p class="text-lg"></p>
+                            <p class="text-lg">(lat. harter Gang), eine chromatische Linie in einer Stimme, aufwärts oder abwärts.</p>
                         </div>
                         <div>
-                        <h2 class="font-bold text-2xl">Menuett</h2>
-                            <p class="text-lg"> </p>
-                        </div>
-                        <div>
-                        <h2 class="font-bold text-2xl">Menuett</h2>
-                            <p class="text-lg"> </p>
+                        <h2 class="font-bold text-2xl">Fundamentbass</h2>
+                            <p class="text-lg">Der tiefste Ton eines Akkords, wenn man die vorliegende Umkehrung in Terzen schichtet. In manchen Fällen (verkürzter D7b9) muss er hinzugedacht werden.</p>
                         </div>
                     </div>
                 </div>
@@ -46,7 +42,9 @@ const localePath = useLocalePath();
                     <div>
                         <p class="text-lg">
                             Drescher, Wolfgang (2019): "Satzmodelle und Harmonische Wendungen"
-                            Omnibus (Musik) (03/2026): https://de.wikipedia.org/wiki/Omnibus_(Musik)
+                        </p>
+                        <p class="text-lg">
+                            Omnibus (Musik) (03/2026):  https://de.wikipedia.org/wiki/Omnibus_(Musik)
                         </p>
                     </div>
                 </div>

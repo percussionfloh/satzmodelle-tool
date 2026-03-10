@@ -37,7 +37,7 @@ const localePath = useLocalePath();
                 </div>
             </section>
             <section>
-                <Heading class="font-bold text-4xl">Literatur</Heading>
+                <Heading class="font-bold text-4xl">Literatur </Heading>
                 <div class="flex flex-col gap-12 my-12">
                     <div>
                         <p class="text-lg">

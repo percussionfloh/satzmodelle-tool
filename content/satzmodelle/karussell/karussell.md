@@ -2,6 +2,7 @@
 title: Karussell
 tags: [mittel soprano cadences, mittel second steps in bass, wichtig ascending, wichtig descending, mittel 6jump in bass down, mittel syncopation, mittel syncopation chain]
 scorePath: karussell.krn
+sound: https://youtu.be/Qv9_taqBJJ8
 ---
 
 ::accordion

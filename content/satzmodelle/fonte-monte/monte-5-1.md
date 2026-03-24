@@ -2,7 +2,13 @@
 title: Monte mit Bassklauseln
 tags: [mittel dominant-tonika,  mittel descending fifths, mittel ascending fourths, mittel quintfall, mittel bass cadences, wichtig ascending]
 scorePath: monte-5-1.krn
-sound: https://youtu.be/1kZx35yG9UU
+sounds: 
+  - title: "Monte Compilation"
+    url: "https://youtu.be/1kZx35yG9UU"
+  - title: "Franz Schubert - D983/3, Die Nacht"
+  - url: "https://youtu.be/wnoKoUq8wTU?si=RIw3mbH6aHVepVkP&t=37"
+
+
 ---
 
 ::accordion

@@ -2,11 +2,15 @@
 title: Fonte mit Bassklauseln
 tags: [wichtig descending, mittel bass cadences, mittel dominant-tonika, mittel ends on I, mittel quintfall, mittel ends on V, mittel descending fifths, mittel ascending fourths]
 scorePath: fonte-5-1.krn
-sound: https://www.youtube.com/watch?v=r6Llu_uGY2U
-sound1: https://youtu.be/Z3RIb9rbYZw?si=8I1omlSHxXA_uek4&t=39 #Lullaby of Birdland
-sound2: https://youtu.be/Y4bK5_48a5U?si=9EfJulnzb7nT6Es-&t=70 #Alone together
----
+sounds:
+  - label: "Fonte Compilation"
+    url: "https://www.youtube.com/watch?v=r6Llu_uGY2U"
+  - label: " Sarah Vaughan - Lullaby of Birdland"
+    url: "https://youtu.be/Z3RIb9rbYZw?si=...&t=39"
+  - label: "Catherine Russell - Alone Together"
+    url: "https://youtu.be/Y4bK5_48a5U?si=9EfJulnzb7nT6Es-&t=70"
 
+---
 
 ::accordion
 ---

@@ -2,12 +2,17 @@
 title: Lamentobass, homophon
 tags: [wichtig descending, mittel second steps in bass, mittel ends on V, mittel endsInDominant]
 scorePath: lam-homophon.krn
-sound: https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4 #Thoughts of a dying atteist
-sound1: https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p #Hit the road Jack
-sound2: https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50 #La guitarra
-sound3: https://youtu.be/6Htn1x-_-is?si=yN_OjqMGuqavi4Ke&t=70 #On my way
-sound4: https://youtu.be/Ptk_1Dc2iPY?si=ENZrc9RUuS1JkLmw #Pachelbel
-#https://youtu.be/7B4CLQGxHmI?si=Sqql1P9k3eF--Hg4&t=108 ChampsÉlysée
+sounds:
+  - label: "Muse - Thoughts of a dying atteist"
+    url: "https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4"
+  - label: "Ray Charles - Hit the road Jack"
+    url: "https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p"
+  - label: "Sarah Carpenter - On my way"
+    url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
+  - label: "Los Auténticos Decadentes - La guitarra"
+    url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
+  - label: "Johann Pachelbel - Canon in D"
+    url: "https://youtu.be/Ptk_1Dc2iPY?si=ENZrc9RUuS1JkLmw"
 ---
 
 ::accordion

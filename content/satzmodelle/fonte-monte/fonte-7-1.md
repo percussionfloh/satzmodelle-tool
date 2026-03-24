@@ -2,7 +2,13 @@
 title: Fonte mit Sopranklauseln
 tags: [wichtig descending, mittel soprano cadences, mittel dominant-tonika, mittel quintfall, mittel ends on I, mittel ends on V, mittel ascending minor seconds in bass]
 scorePath: fonte-7-1.krn
-sound: https://www.youtube.com/watch?v=r6Llu_uGY2U
+sounds:
+  - label: "Fonte Compilation"
+    url: "https://www.youtube.com/watch?v=r6Llu_uGY2U"
+  - label: " Sarah Vaughan - Lullaby of Birdland"
+    url: "https://youtu.be/Z3RIb9rbYZw?si=...&t=39"
+  - label: "Catherine Russell - Alone Together"
+    url: "https://youtu.be/Y4bK5_48a5U?si=9EfJulnzb7nT6Es-&t=70"
 
 ---
 ::accordion

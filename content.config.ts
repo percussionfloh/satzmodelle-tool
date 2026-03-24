@@ -10,12 +10,11 @@ export default defineContentConfig({
                 tags: z.array(z.string()),
                 scorePath: z.string(),
                 homePath: z.string(),
-                sound: z.string(),
-                sound1: z.string(),
-                sound2: z.string(),
-                sound3: z.string(),
-                sound4: z.string(),
+                sounds: z.array(z.object({
+                    label: z.string(),
+                    url: z.string().url(),
+                })),    
             }),
         }),
     },
-});
+}); 

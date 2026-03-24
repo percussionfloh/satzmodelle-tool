@@ -46,6 +46,9 @@ const localePath = useLocalePath();
                         <p class="text-lg">
                             Omnibus (Musik) (03/2026):  https://de.wikipedia.org/wiki/Omnibus_(Musik)
                         </p>
+                        <p class="text-lg">
+                            Dittrich, Marie-Agnes (2007), »›Teufelsmühle‹ und ›Omnibus‹«, Zeitschrift der Gesellschaft für Musiktheorie 4/1–2, 107–121. https://doi.org/10.31751/247
+                        </p>
                     </div>
                 </div>
             </section>

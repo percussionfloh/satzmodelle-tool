@@ -1,0 +1,21 @@
+!!!COM: Komponist / Arrangeur
+!!!OTL: Unbenannte Partitur
+**kern	**fb	**kern
+*part1	*	*part1
+*staff2	*	*staff1
+*I"Klavier	*	*
+*I'Klav.	*	*
+*clefF4	*	*k[]
+*M4/4	*	*M4/4
+=1	=1	=1
+1C	-7	1g 1b-X 1ee
+=	=	=
+1C#X	-7	1g 1b-X 1ee
+=	=	=
+1D	-6 4	1g 1b-X 1dd
+=	=	=
+1E-X	-7 -5	1g 1b-X 1dd-X
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!COM: Arrangeur, Komponist /

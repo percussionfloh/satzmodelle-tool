@@ -32,6 +32,11 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
         </div>
         <ContentRenderer v-if="page" :value="page" />
     </div>
+    <div class="flex gap-2">
+        <div v-for="sound in page.sounds" :key="sound.url">
+        <UButton target="_blank" size="lg" :href="sound.url">{{ sound.label }}</UButton>
+</div>
+    </div>
 </template>
 
                 

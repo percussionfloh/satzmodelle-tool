@@ -5,6 +5,10 @@ scorePath: german.krn
 sounds:
   - label: "Fanny Hensel - Das Veilchen, H-U 415 (Tipp von Imke Constapel)"
     url: "https://youtu.be/0l5rVlTuJX0?si=j8erdFQTqsKHrQag&t=99"
+  - label: "Elfrida Andrée - Piano Quartet in A Minor"
+    url: "https://youtu.be/Si09rmEy3Mg?si=anbWoCesLb889AXc&t=42"
+  - label: "Josephine Lang - An den See, aus 6 Deutsche Lieder Op. 14"
+    url: "https://youtu.be/YzmHYeCtVsE?si=my1el1kKlUDQtbMw&t=16"
 ---
 
 ::accordion

@@ -5,6 +5,10 @@ scorePath: french.krn
 sounds:
   - label: "Fanny Hensel - Das Veilchen, H-U 415 (Tipp von Imke Constapel)"
     url: "https://youtu.be/0l5rVlTuJX0?si=8OL-OTtQXnztmxb_&t=28"
+  - label: "Elfrida Andrée - Piano Quartet in A Minor"
+    url: "https://youtu.be/Si09rmEy3Mg?si=jSWmCsBEPv2Jn3Om&t=23"
+  - label: "Elfrida Andrée -  Vi ses igen aus  Tre Sånger for Voice and Piano, op. 8"
+    url: "https://youtu.be/fsRXoMZFwqI?si=c4t8bCQzuQPoFOmR&t=300"
 ---
 
 ::accordion

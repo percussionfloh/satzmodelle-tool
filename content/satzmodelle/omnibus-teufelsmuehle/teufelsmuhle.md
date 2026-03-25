@@ -3,8 +3,9 @@ title: Teufelsmühle
 tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending, wichtig ascending]
 scorePath: teufelsmuhle.krn
 sounds:
-  - label:
-    url:
+  - label: "Franz Schubert D216 - Meeres Stille"
+    url: "https://youtu.be/GM-WAdmSh_A?si=9VIPxWXmvzmXLRwM&t=64"
+
 ---
 
 

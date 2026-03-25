@@ -2,10 +2,17 @@
 title: Romanesca homophon
 tags: [wichtig descending, wenig descendig 4 and ascending 2, mittel romanesca, mittel homophon, mittel MajorMinorParallelsim]
 scorePath: gym-romanesca-homophon.krn
-sound: https://youtu.be/lUwRKr07vug?si=r2cZERmatZUcaBau&t=234 #Mozart PC15
 sounds:
-  - label:
-    url:
+- label: "Wolfgang A. Mozart - Piano Concerto No. 15, KV 450"
+  url: "https://youtu.be/lUwRKr07vug?si=r2cZERmatZUcaBau&t=234"
+- label: "Sarah Carpenter - On my way"
+  url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
+- label: "Johann Pachelbel - Canon in D"
+  url: "https://youtu.be/Ptk_1Dc2iPY?si=ENZrc9RUuS1JkLmw"
+- label: "HONK! & Isi Glück - Delfin"
+  url: "https://youtu.be/YCpSoPbqWvI?si=8yrl_sb8_lzMxNQn"
+- label: "From Pachelbel to Charlie Parker in one progression.....The Romanesca"
+  url: "https://youtu.be/cBqy3cCCrVY?si=4S1pQYoD3s_cQa5A"
 ---
 
 ::accordion

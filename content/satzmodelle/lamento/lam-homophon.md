@@ -7,12 +7,8 @@ sounds:
     url: "https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4"
   - label: "Ray Charles - Hit the road Jack"
     url: "https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p"
-  - label: "Sarah Carpenter - On my way"
-    url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
   - label: "Los Auténticos Decadentes - La guitarra"
     url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
-  - label: "Johann Pachelbel - Canon in D"
-    url: "https://youtu.be/Ptk_1Dc2iPY?si=ENZrc9RUuS1JkLmw"
 ---
 
 ::accordion

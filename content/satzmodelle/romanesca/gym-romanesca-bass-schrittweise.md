@@ -3,8 +3,12 @@ title: Romanesca mit schrittweise absteigendem Bass
 tags: [wichtig descending, mittel romanesca, mittel second steps in Bass, wenig 5-6 motion]
 scorePath: gym-romanesca-bass-schrittweise.krn
 sounds:
-  - label:
-    url:
+  - label: "Arcangelo Corelli - Sonata da camera Op. 4 No.1, 1. Preludio: Largo"
+    url: "https://youtu.be/DxL_u0VjoVg?si=u4km0EuACZUFwEkp&t=97"
+  - label: "Arcangelo Corelli - Sonata da camera Op. 4 No.3, 1. Preludio: Largo"
+    url: "https://youtu.be/DxL_u0VjoVg?si=aJnRQYj1O8kDNSfI&t=817"
+
+
 ---
 
 ::accordion

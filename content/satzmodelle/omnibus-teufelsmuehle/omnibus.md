@@ -3,8 +3,8 @@ title: Omnibus
 tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending]
 scorePath: omnibus.krn
 sounds:
-  - label:
-    url:
+  - label: "Franz Schubert - Piano Sonata No. 16, D845"
+    url: "https://youtu.be/QyTb0ThLCyo?si=oRkyCxOXxqDm1DVL&t=67"
 ---
 
 

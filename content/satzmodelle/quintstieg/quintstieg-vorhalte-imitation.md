@@ -2,10 +2,11 @@
 title: Quintanstieg mit Vorhalten und Imitationen
 tags: [wenig 3-5-chords, wichtig ascending, mittel ascending fifths, wenig imitations, wenig 4suspensions, wenig suspensions, mittel 4Jump in cantus]
 scorePath: quintstieg-vorhalte-imitation.krn
-sound: https://youtu.be/RJRhWUbgsTo
 sounds:
-  - label:
-    url:
+  - label: "Quintstieg Compilation (hier The Monte Romanesca)"
+    url: "https://youtu.be/RJRhWUbgsTo"
+  - label: "Robert Schumann - Arabeske Op. 18"
+    url: "https://youtu.be/vzOW0sEeb7g?si=_knjgQsUZV0EBDRI&t=223"
 ---
 
 ::accordion

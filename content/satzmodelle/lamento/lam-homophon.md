@@ -5,9 +5,9 @@ scorePath: lam-homophon.krn
 sounds:
   - label: "Muse - Thoughts of a dying atteist"
     url: "https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4"
-  - label: "Ray Charles - Hit the road Jack"
+  - label: "Ray Charles - Hit the road Jack (Tipp von Marius Barendt) "
     url: "https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p"
-  - label: "Los Auténticos Decadentes - La guitarra"
+  - label: "Los Auténticos Decadentes - La guitarra (Tipp von Marius Barendt)"
     url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
 ---
 

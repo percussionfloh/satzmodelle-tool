@@ -5,9 +5,9 @@ scorePath: fonte-5-1.krn
 sounds:
   - label: "Fonte Compilation"
     url: "https://www.youtube.com/watch?v=r6Llu_uGY2U"
-  - label: " Sarah Vaughan - Lullaby of Birdland"
+  - label: " Sarah Vaughan - Lullaby of Birdland (Tipp von Marius Barendt)"
     url: "https://youtu.be/Z3RIb9rbYZw?si=...&t=39"
-  - label: "Catherine Russell - Alone Together"
+  - label: "Catherine Russell - Alone Together (Tipp von Marius Barendt)"
     url: "https://youtu.be/Y4bK5_48a5U?si=9EfJulnzb7nT6Es-&t=70"
 
 ---

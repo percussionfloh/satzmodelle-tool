@@ -26,7 +26,7 @@ const localePath = useLocalePath();
                 <p>Noch gibt es bei einigen Satzmodell-Seiten nur Klangbeispiele, die von bereits lang gestorbenen Komponisten stammen.<br>
                  Es ist leider sehr aufwendig, die Satzmodelle in anderen Stücken (als den etablierten) zu finden. <br>
                  Jedoch verspreche ich, dass die Beispiele nach und nach um weitere Stücke ergänzt werden, mit dem Ziel, ein möglichst diverses Bild zu zeichnen.
-                 <br> Du hast bei einem coolen Stück ein Satzmodell entdeckt und das Beispiel steht hier noch nicht? Schreib mir gerne f.moldaschl@mh-freiburg.de! 
+                 <br> Du hast bei einem coolen Stück ein Satzmodell entdeckt und das Beispiel steht hier noch nicht? Schreib mir gerne eine Mail an f.moldaschl@mh-freiburg.de! 
                 </p>
             </div>
         </div>

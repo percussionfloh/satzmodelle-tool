@@ -2,6 +2,9 @@
 title: Omnibus
 tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending]
 scorePath: omnibus.krn
+sounds:
+  - label:
+    url:
 ---
 
 

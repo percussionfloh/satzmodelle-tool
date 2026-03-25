@@ -2,6 +2,9 @@
 title: La Folia
 tags: [mittel ascending Romanesca, mittel bass cadences, mittel dominant-tonika, mittel ends on I]
 scorePath: la-folia.krn
+sounds:
+  - label:
+    url:
 ---
 
 ::accordion

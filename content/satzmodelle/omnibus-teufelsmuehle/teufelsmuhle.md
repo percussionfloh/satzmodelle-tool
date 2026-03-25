@@ -2,6 +2,9 @@
 title: Teufelsmühle
 tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending, wichtig ascending]
 scorePath: teufelsmuhle.krn
+sounds:
+  - label:
+    url:
 ---
 
 

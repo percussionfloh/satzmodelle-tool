@@ -2,7 +2,9 @@
 title: Italienischer Übermäßiger Sextakkord
 tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, wenig without5, mittel soprano cadences]
 scorePath: italian.krn
-homePath: '/augmented6'
+sounds: 
+  - label: "Clara Schumann - Warum willst du and're fragen, Op.12/11 (Tipp von Clarissa Merz)"
+    url: "https://youtu.be/DIOonfoa0Jo?si=wJ3IlKZ45P0gM6KY"
 ---
 
 ::accordion

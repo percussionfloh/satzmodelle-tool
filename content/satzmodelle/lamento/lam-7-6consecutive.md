@@ -3,7 +3,7 @@ title: Lamentobass, 7-6-Konsekutive
 tags: [wichtig descending, mittel second steps in bass, mittel syncopation chain, wenig seventh suspensions, wenig suspensions, mittel ends on V, mittel endsInDominant]
 scorePath: lam-7-6consecutive.krn
 sounds: 
-  - title: "Arcangelo Corelli - Sonata da chiesa Op.1 No4, 4. Presto"
+  - label: "Arcangelo Corelli - Sonata da chiesa Op.1 No4, 4. Presto"
     url: "https://youtu.be/hQxFJp4o3Vw?si=_zUkDYYWlAV4gekA&t=233"
 ---
 

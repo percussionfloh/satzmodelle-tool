@@ -2,6 +2,9 @@
 title: Deutscher Übermäßiger Quintsextakkord
 tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, mittel ends on V, wenig with5, mittel soprano cadences]
 scorePath: german.krn
+sounds:
+  - label: "Fanny Hensel - Das Veilchen, H-U 415 (Tipp von Imke Constapel)"
+    url: "https://youtu.be/0l5rVlTuJX0?si=j8erdFQTqsKHrQag&t=99"
 ---
 
 ::accordion

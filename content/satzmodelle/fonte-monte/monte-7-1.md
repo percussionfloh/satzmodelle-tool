@@ -3,7 +3,7 @@ title: Monte mit Sopranklauseln
 tags: [wichtig ascending, mittel soprano cadences, mittel dominant-tonika, mittel ends on I, mittel ends on V, mittel ascending minor seconds in bass]
 scorePath: monte-7-1.krn
 sounds: 
-  - title: "Monte Compilation"
+  - label: "Monte Compilation"
   - url: "https://youtu.be/1kZx35yG9UU"
 
 ---

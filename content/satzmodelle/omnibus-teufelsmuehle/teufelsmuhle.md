@@ -20,8 +20,8 @@ defaultValue:
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-"Seidel beschrieb die ›Teufelsmühle‹ [...] als eine Sequenz im Kleinterzabstand mit einer Akkordfolge aus drei Klängen – Dur-Septakkord, Moll-Quartsextakkord und verminderter Akkord oder ihren enharmonischen Varianten – über einer auf- oder absteigenden chromatischen Skala."¹
-[Vertiefung](https://www.gmth.de/zeitschrift/artikel/247.aspx)
+"Seidel beschrieb die ›Teufelsmühle‹ [...] als eine Sequenz im Kleinterzabstand mit einer Akkordfolge aus drei Klängen – Dur-Septakkord, Moll-Quartsextakkord und verminderter Akkord oder ihren enharmonischen Varianten – über einer auf- oder absteigenden chromatischen Skala."¹ <br>
+->[Vertiefung](https://www.gmth.de/zeitschrift/artikel/247.aspx)
 
 ::
 

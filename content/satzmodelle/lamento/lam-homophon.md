@@ -27,4 +27,6 @@ defaultValue:
 Einen Lamentobass nennt man, wenn der Bass schrittweise von der I. Stufe zur V. absteigt. Dieses Modell kommt vorallem in einem Moll-Kontext vor. Der Bass wird klassisch gemäss der Oktavregel harmonisiert und hat zur V. Stufe hin eine phrygische Wendung.¹ In Jazz/Pop-Kontexten variiert die Harmonisierung oft.
 ::
 
+::
+
 ¹Drescher, 2019

@@ -4,7 +4,7 @@ tags: [wichtig ascending, mittel soprano cadences, mittel dominant-tonika, mitte
 scorePath: monte-7-1.krn
 sounds: 
   - label: "Monte Compilation"
-  - url: "https://youtu.be/1kZx35yG9UU"
+    url: "https://youtu.be/1kZx35yG9UU"
 
 ---
 

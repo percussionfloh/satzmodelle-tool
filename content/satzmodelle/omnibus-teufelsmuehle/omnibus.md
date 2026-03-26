@@ -32,11 +32,11 @@ Durch einen weiteren Schritt entsteht ein kleiner Dur-Sekundakkord mit Septime i
 ::
 
 ::accordion-item{label="Expertinnen-Level"}
-Grundlage des Modells ist ein Stimmtausch zwischen dem Grund- und dem Terzton eines Dominantseptakkordes, an dem der Bass beteiligt ist. Die Terzsprünge in Gegenbewegung, die dabei entstehen, werden durch Halbtonschritte ausgefüllt, während die anderen Stimmen liegenbleiben. Dies ergibt eine Folge von fünf Durchgangsakkorden, die den Dominantseptakkord diminuieren und auf diese Weise verlängern (prolongieren).¹
-[Vertiefung](https://www.gmth.de/zeitschrift/artikel/247.aspx)²
+Grundlage des Modells ist ein Stimmtausch zwischen dem Grund- und dem Terzton eines Dominantseptakkordes, an dem der Bass beteiligt ist. Die Terzsprünge in Gegenbewegung, die dabei entstehen, werden durch Halbtonschritte ausgefüllt, während die anderen Stimmen liegenbleiben. Dies ergibt eine Folge von fünf Durchgangsakkorden, die den Dominantseptakkord diminuieren und auf diese Weise verlängern (prolongieren).¹ <br>
+->[Vertiefung](https://www.gmth.de/zeitschrift/artikel/247.aspx)²
 ::
 
 ::
 
-¹Omnibus in Wikipedia
+¹Omnibus in Wikipedia <br>
 ²Dittrich, 2007

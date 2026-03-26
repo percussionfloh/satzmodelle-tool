@@ -35,6 +35,4 @@ die formal und harmonisch an bestimmten Stellen eines [Menuetts](https://www.mus
 
 ::
 
-::
-
 ¹Drescher, 2019

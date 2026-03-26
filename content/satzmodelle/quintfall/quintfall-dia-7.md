@@ -3,8 +3,12 @@ title: Diatonischer Quintfall mit Septakkorden
 tags: [mittel quintfall, wichtig descending, mittel descending fifths, mittel ascending fourths, mittel seventh chords, wenig suspensions, wenig seventh suspensions]
 scorePath: quintfall-dia-7.krn
 sounds:
-  - label:
-    url:
+  - label: "Cuba Feliz - Lagrimas Negras"
+    url: "https://youtu.be/Pt3YiSzXBnw?si=LY6VvE4VPEIZfWlg&t=79"
+  - label: "Elise Duckworth - Autumn Leaves"
+    url: "https://youtu.be/G73RIBsMA5Y?si=kFtMDS5JDUN9XwJh&t=15"
+  - label: "Johann S. Bach - Partita for Violin No.2 in D Minor BWV 1004, Chaconne (chromatischer Bass!)"
+    url: "https://youtu.be/lpe7thXd69E?si=WRRRIYdP3YVBhQPw&t=784"
 ---
 
 ::accordion

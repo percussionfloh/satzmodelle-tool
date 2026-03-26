@@ -4,7 +4,7 @@ tags: [mittel quintfall, mittel ascending fourths, wichtig descending, wenig 3-5
 scorePath: quintfall-real-3-5.krn
 sounds:
   - label: "Radiohead - You and whose army"
-    url: "https://youtu.be/QQnc-hM80UQ?si=6LylsXEnl2VFa-xm"
+    url: "https://youtu.be/BYYhtb1dyQU?si=7J6QA5_l44pegmL-&t=2"
 ---
 
 ::accordion

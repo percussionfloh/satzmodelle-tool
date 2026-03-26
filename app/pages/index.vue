@@ -11,7 +11,8 @@ const localePath = useLocalePath();
             <div class="flex flex-col px-20">
                 <h1 class="text-2xl font-bold" >Über das Projekt</h1>
                 <p>Dieses Projekt hat das Ziel, Studierenden einen möglichst barrierefreien Einstieg in die wundervolle Welt der Satzmodelle zu ermöglichen. <br>
-                    Das soll vor allem durch die Bereitstellung von unterschiedlichen Kompliziertheitsgraden der Erklärung dieser Satzmodelle erreicht werden.
+                    Das soll vor allem durch die Bereitstellung von unterschiedlichen Kompliziertheitsgraden der Erklärung dieser Satzmodelle erreicht werden. <br>
+                    Hinweis: Die Aufnahmen, die als Beispiele gehört werden können, sind meist ein wenig variiert, da die Vanilla-Versionen der Satzmodelle so gut wie nie vorkommen.
                 </p>
             </div>
         </div>

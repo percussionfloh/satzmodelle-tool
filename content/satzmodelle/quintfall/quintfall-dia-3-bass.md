@@ -3,8 +3,8 @@ title: Diatonischer Quintfall, mit Gegenschrittmodell 3-6 in Außenstimmen
 tags: [mittel quintfall, wenig 3-6-chords, wichtig descending, mittel descending thirds and ascending seconds in bass]
 scorePath: quintfall-dia-3-bass.krn
 sounds:
-  - label:
-    url:
+  - label: "Johann S. Bach - Partita for Flute in A Minor BWV 1013"
+    url: "https://youtu.be/Datoqxx-biw?si=6cIvLrNSgBxcd5mO&t=214"
 ---
 
 ::accordion

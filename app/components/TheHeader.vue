@@ -8,7 +8,7 @@ const localePath = useLocalePath();
             <div class="grow flex items-center gap-4">
                 <div class="font-extrabold text-lg md:text-2xl">
                     <NuxtLink :to="localePath('/')">
-                        Satzmodelle Project
+                        Satzmodelle Tool
                     </NuxtLink>
                 </div>
             </div>

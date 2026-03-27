@@ -2,6 +2,7 @@
 title: Diatonischer Quintfall mit Grundakkorden
 tags: [mittel quintfall, wenig 3-5-chords, wichtig descending, mittel descending fifths, mittel ascending fourths]
 scorePath: quintfall-dia-3-5.krn
+midiPath: /kern/quintfall-dia-3-5.krn
 sounds:
   - label: "Cuba Feliz - Lagrimas Negras"
     url: "https://youtu.be/Pt3YiSzXBnw?si=LY6VvE4VPEIZfWlg&t=79"

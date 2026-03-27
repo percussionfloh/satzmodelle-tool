@@ -2,6 +2,7 @@
 title: Realer Quintfall mit Septakkorden
 tags: [mittel quintfall, mittel ascending fourths, wenig seventh suspensions, wichtig descending, mittel seventh chords, mittel descending fifths, mittel tritone steps in bass]
 scorePath: quintfall-real-7.krn
+midiPath: /kern/quintfall-real-7.krn
 sounds:
   - label: "Johann S. Bach - Fantasie und Fuge in G-Moll BWV 542"
     url: "https://youtu.be/5n8dnfwA0h0?si=cIZ8Cly5j-Q65hBM&t=250"

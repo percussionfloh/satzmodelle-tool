@@ -2,6 +2,7 @@
 title: Lamentobass, homophon
 tags: [wichtig descending, mittel second steps in bass, mittel ends on V, mittel endsInDominant]
 scorePath: lam-homophon.krn
+midiPath: /kern/lam-homophon.krn
 sounds:
   - label: "Muse - Thoughts of a dying atteist"
     url: "https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4"

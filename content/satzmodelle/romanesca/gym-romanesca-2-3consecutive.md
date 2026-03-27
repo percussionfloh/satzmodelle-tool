@@ -2,6 +2,7 @@
 title: Romanesca (3-2-Konsekutive)
 tags: [wichtig descending, mittel romanesca, mittel syncopation chain, wenig 4suspensions, wenig 9suspensions, wenig descendig 4 and ascending 2, wenig gymel]
 scorePath: gym-romanesca-2-3consecutive.krn
+midiPath: /kern/gym-romanesca-2-3consecutive.krn
 sounds:
   - label: "Arcangelo Corelli - Sonata da camera Op. 4 No.1, 4. Allemanda: Presto"
     url: "https://youtu.be/DxL_u0VjoVg?si=VgFDwxiViUYM4MH-&t=333"

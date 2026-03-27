@@ -2,6 +2,7 @@
 title: Chromatischer Lamentobass
 tags: [wichtig descending, mittel MajorMinorParallelsim, mittel chromatic steps in bass, mittel ends on V, mittel endsInDominant]
 scorePath: lam-chrom.krn
+midiPath: /kern/lam-chrom.krn
 sounds: 
   - label: "Johann S. Bach - H-Moll-Messe, BWV 232, Symbolum Nicenum: No. 17, Crucifixus"
     url: "https://youtu.be/hyUDe-_l6xQ?si=D8URiR-Cp6GVmBKK"

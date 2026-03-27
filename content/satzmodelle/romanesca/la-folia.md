@@ -2,6 +2,7 @@
 title: La Folia
 tags: [mittel ascending Romanesca, mittel bass cadences, mittel dominant-tonika, mittel ends on I]
 scorePath: la-folia.krn
+midiPath: /kern/la-folia.krn
 sounds:
   - label: "Arcangelo Corelli - La Folia"
     url: "https://youtu.be/cNmJlP6-Mxw?si=xFIjTwXFOPgE6IJQ&t=22"

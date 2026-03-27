@@ -2,6 +2,7 @@
 title: Diatonischer Quintfall mit Septakkorden
 tags: [mittel quintfall, wichtig descending, mittel descending fifths, mittel ascending fourths, mittel seventh chords, wenig suspensions, wenig seventh suspensions]
 scorePath: quintfall-dia-7.krn
+midiPath: /kern/quintfall-dia-7.krn
 sounds:
   - label: "Cuba Feliz - Lagrimas Negras"
     url: "https://youtu.be/Pt3YiSzXBnw?si=LY6VvE4VPEIZfWlg&t=79"

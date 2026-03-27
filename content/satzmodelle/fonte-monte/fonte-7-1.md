@@ -2,6 +2,7 @@
 title: Fonte mit Sopranklauseln
 tags: [wichtig descending, mittel soprano cadences, mittel dominant-tonika, mittel quintfall, mittel ends on I, mittel ends on V, mittel ascending minor seconds in bass]
 scorePath: fonte-7-1.krn
+midiPath: /kern/fonte-7-1.krn
 sounds:
   - label: "Fonte Compilation"
     url: "https://www.youtube.com/watch?v=r6Llu_uGY2U"

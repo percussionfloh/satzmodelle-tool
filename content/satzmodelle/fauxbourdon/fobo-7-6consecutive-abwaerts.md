@@ -2,6 +2,7 @@
 title: Fauxbourdon abwärts, 7-6-Konsekutive
 tags: [descending, 7-6 consecutive, fauxbourdon, second steps in Bass, syncopation chain]
 scorePath: fobo-7-6consecutive-abwaerts.krn 
+midiPath: /kern/fobo-7-6consecutive-abwaerts.krn
 sounds:
   - label: "Anton Bruckner - Sinfonie Nr. 4, 2. Adagio"
     url: "https://youtu.be/CsL_GWAobRk?si=qyHeKIqskv0vREA4&t=1365"

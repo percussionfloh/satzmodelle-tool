@@ -2,6 +2,7 @@
 title: Fonte mit Bassklauseln
 tags: [wichtig descending, mittel bass cadences, mittel dominant-tonika, mittel ends on I, mittel quintfall, mittel ends on V, mittel descending fifths, mittel ascending fourths]
 scorePath: fonte-5-1.krn
+midiPath: /kern/fonte-5-1.krn
 sounds:
   - label: "Fonte Compilation"
     url: "https://www.youtube.com/watch?v=r6Llu_uGY2U"

@@ -2,6 +2,7 @@
 title: Romanesca homophon
 tags: [wichtig descending, wenig descendig 4 and ascending 2, mittel romanesca, mittel homophon, mittel MajorMinorParallelsim]
 scorePath: gym-romanesca-homophon.krn
+midiPath: /kern/gym-romanesca-homophon.krn
 sounds:
 - label: "Wolfgang A. Mozart - Piano Concerto No. 15, KV 450"
   url: "https://youtu.be/lUwRKr07vug?si=r2cZERmatZUcaBau&t=234"

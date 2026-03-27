@@ -9,7 +9,7 @@ export default defineContentConfig({
                 title: z.string(),
                 tags: z.array(z.string()),
                 scorePath: z.string(),
-                homePath: z.string(),
+                midiPath: z.string(),
                 sounds: z.array(z.object({
                     label: z.string(),
                     url: z.string().url(),

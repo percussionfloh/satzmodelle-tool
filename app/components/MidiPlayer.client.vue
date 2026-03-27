@@ -1,4 +1,4 @@
-<!-- <script setup>
+<script setup>
 import MidiPlayer from 'midi-player-js';
 import Soundfont from 'soundfont-player';
 import { createWorkerVerovioToolkit } from 'vue-verovio-canvas';
@@ -14,11 +14,11 @@ const { verovioWorker } = useVerovioWorker();
 const midiPlayerIsReady = new Deferred();
 const soundFrontIsReady = new Deferred();
 const isReady = new Deferred();
-let ac = null;
+let ac = null; 
 const instrument = ref(null);
 const midiPlayer = new MidiPlayer.Player();
 const isPlaying = ref(false);
-const instrumentName = ref('marimba');
+const instrumentName = ref('accordion');
 const seek = ref(0);
 const duration = ref(0);
 const state = ref(null);
@@ -191,4 +191,4 @@ const circlePath = computed(() => {
         transform: rotate(360deg);
     }
 }
-</style> -->
+</style>

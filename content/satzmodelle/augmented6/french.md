@@ -1,7 +1,8 @@
 ---
 title: Französischer Übermäßiger Quartsextakkord
 tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, wenig without5, wenig with4, mittel ends on V, mittel soprano cadences]
-scorePath: french.krn 
+scorePath: french.krn
+midiPath: /kern/french.krn
 sounds:
   - label: "Fanny Hensel - Das Veilchen, H-U 415 (Tipp von Imke Constapel)"
     url: "https://youtu.be/0l5rVlTuJX0?si=8OL-OTtQXnztmxb_&t=28"

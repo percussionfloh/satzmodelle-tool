@@ -13,7 +13,7 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Erklärung"}
+::accordion-item{label="Anfängerinnen-Level"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde
 - aufwärts kann die 7-6-Konsekutive verwendet werden. Dafür muss die Auflösung der Dissonanz verkürzt werden und nach oben springen, um jeweils die nächste Septime vozubereiten.
 ::

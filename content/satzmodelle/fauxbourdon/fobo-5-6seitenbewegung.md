@@ -13,7 +13,7 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Erklärung"}
+::accordion-item{label="Anfängerinnen-Level"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde
 - In der Aufwärtsbewegung kann die 5-6-Seitenbewegung verwendet werden, um Quintparallelen zu vermeiden
 ::

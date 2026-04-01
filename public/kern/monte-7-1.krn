@@ -11,14 +11,20 @@
 *met(c)	*	*met(c)
 =1	=1	=1
 *G:	*	*G:
-1F#	6 n5	1ccn 1dd
+1F#	6 n5	4dd
+.	.	4a
+.	.	4dd
+.	.	4cc
 =	=	=
-1G	.	1b 1dd
+1G	.	1b
 =	=	=
 *A:	*	*A:
-1G#X	6 5	1dd 1ee
+1G#X	6 5	4ee
+.	.	4b
+.	.	4ee
+.	.	4dd
 =	=	=
-1A	.	1cc# 1ee
+1A	.	1cc#
 ==	==	==
 *-	*-	*-
 !!!system-decoration: {(s1,s2)}

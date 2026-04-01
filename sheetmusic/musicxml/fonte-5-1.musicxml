@@ -1,299 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
-<score-partwise version="4.0">
-  <work>
-    <work-title>lam-7-6consecutive</work-title>
-    </work>
-  <identification>
-    <creator type="composer">Komponist / Arrangeur</creator>
-    <encoding>
-      <software>MuseScore Studio 4.6.5</software>
-      <encoding-date>2026-02-23</encoding-date>
-      <supports element="accidental" type="yes"/>
-      <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
-      <supports element="stem" type="yes"/>
-      </encoding>
-    <miscellaneous>
-      <miscellaneous-field name="creationDate">2026-02-23</miscellaneous-field>
-      <miscellaneous-field name="platform">Linux</miscellaneous-field>
-      <miscellaneous-field name="subtitle">Untertitel</miscellaneous-field>
-      </miscellaneous>
-    </identification>
-  <defaults>
-    <scaling>
-      <millimeters>6.99911</millimeters>
-      <tenths>40</tenths>
-      </scaling>
-    <page-layout>
-      <page-height>1696.94</page-height>
-      <page-width>1200.48</page-width>
-      <page-margins type="even">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
-        </page-margins>
-      <page-margins type="odd">
-        <left-margin>85.7252</left-margin>
-        <right-margin>85.7252</right-margin>
-        <top-margin>85.7252</top-margin>
-        <bottom-margin>85.7252</bottom-margin>
-        </page-margins>
-      </page-layout>
-    <appearance>
-      <line-width type="light barline">1.8</line-width>
-      <line-width type="heavy barline">5.5</line-width>
-      <line-width type="beam">5</line-width>
-      <line-width type="bracket">4.5</line-width>
-      <line-width type="dashes">1</line-width>
-      <line-width type="enclosure">1</line-width>
-      <line-width type="ending">1.1</line-width>
-      <line-width type="extend">1</line-width>
-      <line-width type="leger">1.6</line-width>
-      <line-width type="pedal">1.1</line-width>
-      <line-width type="octave shift">1.1</line-width>
-      <line-width type="slur middle">2.1</line-width>
-      <line-width type="slur tip">0.5</line-width>
-      <line-width type="staff">1.1</line-width>
-      <line-width type="stem">1</line-width>
-      <line-width type="tie middle">2.1</line-width>
-      <line-width type="tie tip">0.5</line-width>
-      <line-width type="tuplet bracket">1</line-width>
-      <line-width type="wedge">1.2</line-width>
-      <note-size type="cue">70</note-size>
-      <note-size type="grace">70</note-size>
-      <note-size type="grace-cue">49</note-size>
-      </appearance>
-    <music-font font-family="Leland"/>
-    <word-font font-family="Edwin" font-size="10"/>
-    <lyric-font font-family="Edwin" font-size="10"/>
-    </defaults>
-  <credit page="1">
-    <credit-type>title</credit-type>
-    <credit-words default-x="600.241935" default-y="1611.210312" justify="center" valign="top" font-size="22">fonte</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>subtitle</credit-type>
-    <credit-words default-x="600.241935" default-y="1554.060198" justify="center" valign="top" font-size="14">Untertitel</credit-words>
-    </credit>
-  <credit page="1">
-    <credit-type>composer</credit-type>
-    <credit-words default-x="1114.7587" default-y="1519.736816" justify="right" valign="bottom">Komponist / Arrangeur</credit-words>
-    </credit>
-  <part-list>
-    <score-part id="P1">
-      <part-name>Klavier</part-name>
-      <part-abbreviation>Klav.</part-abbreviation>
-      <score-instrument id="P1-I1">
-        <instrument-name>Klavier</instrument-name>
-        <instrument-sound>keyboard.piano</instrument-sound>
-        </score-instrument>
-      <midi-device id="P1-I1" port="1"></midi-device>
-      <midi-instrument id="P1-I1">
-        <midi-channel>1</midi-channel>
-        <midi-program>1</midi-program>
-        <volume>78.7402</volume>
-        <pan>0</pan>
-        </midi-instrument>
-      </score-part>
-    </part-list>
-  <part id="P1">
-    <measure number="1" width="322.97">
-      <print>
-        <system-layout>
-          <system-margins>
-            <left-margin>50</left-margin>
-            <right-margin>0</right-margin>
-            </system-margins>
-          <top-system-distance>161.47</top-system-distance>
-          </system-layout>
-        <staff-layout number="2">
-          <staff-distance>65</staff-distance>
-          </staff-layout>
-        </print>
-      <attributes>
-        <divisions>1</divisions>
-        <key>
-          <fifths>2</fifths>
-          </key>
-        <time symbol="common">
-          <beats>4</beats>
-          <beat-type>4</beat-type>
-          </time>
-        <staves>2</staves>
-        <clef number="1">
-          <sign>G</sign>
-          <line>2</line>
-          </clef>
-        <clef number="2">
-          <sign>F</sign>
-          <line>4</line>
-          </clef>
-        </attributes>
-      <note default-x="119.84" default-y="-25">
-        <pitch>
-          <step>A</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <note default-x="119.84" default-y="-10">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <alter>1</alter>
-          <octave>5</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <accidental>sharp</accidental>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <figured-bass>
-        <figure>
-          <figure-number>7</figure-number>
-          </figure>
-        <figure>
-          <prefix>sharp</prefix>
-          </figure>
-        </figured-bass>
-      <note default-x="119.84" default-y="-100">
-        <pitch>
-          <step>B</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>whole</type>
-        <staff>2</staff>
-        </note>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.1">
+ <meiHead>
+  <fileDesc>
+   <titleStmt>
+    <title>lam-7-6consecutive</title>
+   </titleStmt>
+   <pubStmt>
+    <unpub>This MEI file was created by Verovio's Humdrum converter. When published, this unpub element should be removed, and the enclosing pubStmt element should be properly filled out.</unpub>
+   </pubStmt>
+  </fileDesc>
+  <encodingDesc>
+   <appInfo>
+    <application isodate="2026-04-01T20:02:50" version="5.8.0-dev-652fc2c-dirty">
+     <name>Verovio</name>
+     <p>Transcoded from Humdrum</p>
+    </application>
+   </appInfo>
+  </encodingDesc>
+  <workList>
+   <work xml:id="work0_encoded" type="encoded">
+    <title type="uniform">
+     <titlePart type="main" analog="humdrum:OTL">lam-7-6consecutive</titlePart>
+    </title>
+    <composer>
+     <persName analog="humdrum:COM">Komponist / Arrangeur</persName>
+    </composer>
+    <composer>
+     <persName analog="humdrum:COM">Arrangeur, Komponist</persName>
+    </composer>
+   </work>
+  </workList>
+  <extMeta>
+   <frames xmlns="http://www.humdrum.org/ns/humxml">
+    <metaFrame n="0" token="!!!COM: Komponist / Arrangeur" xml:id="L1">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey>COM</referenceKey>
+      <referenceValue>Komponist / Arrangeur</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="1" token="!!!OTL: lam-7-6consecutive" xml:id="L2">
+     <frameInfo>
+      <startTime float="0" />
+      <frameType>reference</frameType>
+      <referenceKey>OTL</referenceKey>
+      <referenceValue>lam-7-6consecutive</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="24" token="!!!system-decoration: {(s1,s2)}" xml:id="L25">
+     <frameInfo>
+      <startTime float="16" />
+      <frameType>reference</frameType>
+      <referenceKey>system-decoration</referenceKey>
+      <referenceValue>{(s1,s2)}</referenceValue>
+     </frameInfo>
+    </metaFrame>
+    <metaFrame n="25" token="!!!COM: Arrangeur, Komponist" xml:id="L26">
+     <frameInfo>
+      <startTime float="16" />
+      <frameType>reference</frameType>
+      <referenceKey>COM</referenceKey>
+      <referenceValue>Arrangeur, Komponist</referenceValue>
+     </frameInfo>
+    </metaFrame>
+   </frames>
+  </extMeta>
+ </meiHead>
+ <music decls="#work0_encoded">
+  <body>
+   <mdiv xml:id="aclmelz">
+    <score xml:id="b18l0awt">
+     <scoreDef xml:id="c18w9vdc" midi.bpm="200" tempo.dist="3vu">
+      <pgHead xml:id="m1ntx0a8" func="first">
+       <rend xml:id="n1uie0oq" halign="center" valign="middle">
+        <rend xml:id="o1v8a2bh" fontsize="large">lam-7-6consecutive</rend>
+        <lb xml:id="qwt8ywy" /> 
+<lb xml:id="s1et1ha9" /> </rend>
+       <rend xml:id="u1aqj6gu" halign="right" valign="bottom" fontsize="small">Komponist Arrangeur</rend>
+      </pgHead>
+      <staffGrp xml:id="dap0jrh" bar.thru="true" symbol="brace">
+       <label xml:id="t7t7a7c">Klavier</label>
+       <labelAbbr xml:id="rddcb4b">Klav.</labelAbbr>
+       <staffDef xml:id="staffdef-L3F3" n="1" lines="5">
+        <clef xml:id="clef-L8F3" shape="G" line="2" />
+        <keySig xml:id="keysig-L9F3" sig="2s" />
+        <meterSig xml:id="metersig-L10F3" count="4" sym="common" unit="4" />
+       </staffDef>
+       <staffDef xml:id="staffdef-L3F1" n="2" lines="5">
+        <clef xml:id="clef-L8F1" shape="F" line="4" />
+        <keySig xml:id="keysig-L9F1" mode="minor" sig="2s" pname="e" />
+        <meterSig xml:id="metersig-L10F1" count="4" sym="common" unit="4" />
+       </staffDef>
+      </staffGrp>
+     </scoreDef>
+     <section xml:id="section-L3F1">
+      <measure xml:id="measure-L1" n="1">
+       <harm xml:id="harm-L15F2" staff="2" tstamp="1">
+        <fb xml:id="fb-L15F2">
+         <f xml:id="f-L15F2N1"></f>
+         <f xml:id="f-L15F2N2"></f>
+        </fb>
+       </harm>
+       <staff xml:id="staff-L3F3" n="1">
+        <layer xml:id="layer-L1F3N1" n="1">
+         <chord xml:id="chord-L15F3" dur="1">
+          <note xml:id="note-L15F3S1" oct="4" pname="a" accid.ges="n" />
+          <note xml:id="note-L15F3S2" oct="5" pname="d" accid="s" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L3F1" n="2">
+        <layer xml:id="layer-L1F1N1" n="1">
+         <note xml:id="note-L15F1" dur="1" oct="3" pname="b" accid.ges="n" />
+        </layer>
+       </staff>
       </measure>
-    <measure number="2" width="215.62">
-      <note default-x="12.5" default-y="-30">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <note default-x="12.5" default-y="-5">
-        <chord/>
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note default-x="12.5" default-y="-120">
-        <pitch>
-          <step>E</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>whole</type>
-        <staff>2</staff>
-        </note>
+      <measure xml:id="measure-L16">
+       <staff xml:id="staff-L16F3N1" n="1">
+        <layer xml:id="layer-L16F3N1" n="1">
+         <chord xml:id="chord-L17F3" dur="1">
+          <note xml:id="note-L17F3S1" oct="4" pname="g" accid.ges="n" />
+          <note xml:id="note-L17F3S2" oct="5" pname="e" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L16F1N1" n="2">
+        <layer xml:id="layer-L16F1N1" n="1">
+         <note xml:id="note-L17F1" dur="1" oct="3" pname="e" accid.ges="n" />
+        </layer>
+       </staff>
       </measure>
-    <measure number="3" width="215.62">
-      <note default-x="12.5" default-y="-30">
-        <pitch>
-          <step>G</step>
-          <octave>4</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <note default-x="12.5" default-y="-15">
-        <chord/>
-        <pitch>
-          <step>C</step>
-          <alter>1</alter>
-          <octave>5</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <figured-bass>
-        <figure>
-          <figure-number>7</figure-number>
-          </figure>
-        </figured-bass>
-      <note default-x="12.5" default-y="-105">
-        <pitch>
-          <step>A</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>whole</type>
-        <staff>2</staff>
-        </note>
+      <measure xml:id="measure-L18">
+       <harm xml:id="harm-L20F2" staff="2" tstamp="1">
+        <fb xml:id="fb-L20F2">
+         <f xml:id="f-L20F2"></f>
+        </fb>
+       </harm>
+       <staff xml:id="staff-L18F3N1" n="1">
+        <layer xml:id="layer-L18F3N1" n="1">
+         <chord xml:id="chord-L20F3" dur="1">
+          <note xml:id="note-L20F3S1" oct="4" pname="g" accid.ges="n" />
+          <note xml:id="note-L20F3S2" oct="5" pname="c" accid.ges="s" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L18F1N1" n="2">
+        <layer xml:id="layer-L18F1N1" n="1">
+         <note xml:id="note-L20F1" dur="1" oct="3" pname="a" accid.ges="n" />
+        </layer>
+       </staff>
       </measure>
-    <measure number="4" width="224.82">
-      <note default-x="12.5" default-y="-35">
-        <pitch>
-          <step>F</step>
-          <alter>1</alter>
-          <octave>4</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <note default-x="12.5" default-y="-10">
-        <chord/>
-        <pitch>
-          <step>D</step>
-          <octave>5</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>1</voice>
-        <type>whole</type>
-        <staff>1</staff>
-        </note>
-      <backup>
-        <duration>4</duration>
-        </backup>
-      <note default-x="12.5" default-y="-125">
-        <pitch>
-          <step>D</step>
-          <octave>3</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>5</voice>
-        <type>whole</type>
-        <staff>2</staff>
-        </note>
-      <barline location="right">
-        <bar-style>light-heavy</bar-style>
-        </barline>
+      <measure xml:id="measure-L21" right="end">
+       <staff xml:id="staff-L21F3N1" n="1">
+        <layer xml:id="layer-L21F3N1" n="1">
+         <chord xml:id="chord-L22F3" dur="1">
+          <note xml:id="note-L22F3S1" oct="4" pname="f" accid.ges="s" />
+          <note xml:id="note-L22F3S2" oct="5" pname="d" accid.ges="n" />
+         </chord>
+        </layer>
+       </staff>
+       <staff xml:id="staff-L21F1N1" n="2">
+        <layer xml:id="layer-L21F1N1" n="1">
+         <note xml:id="note-L22F1" dur="1" oct="3" pname="d" accid.ges="n" />
+        </layer>
+       </staff>
       </measure>
-    </part>
-  </score-partwise>
+     </section>
+    </score>
+   </mdiv>
+  </body>
+ </music>
+</mei>

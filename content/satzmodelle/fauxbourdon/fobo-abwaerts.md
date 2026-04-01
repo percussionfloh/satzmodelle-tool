@@ -1,6 +1,6 @@
 ---
 title: Fauxbourdon abwärts
-tags: [descending, fauxbourdon, second steps in Bass, homophon ]
+tags: [wichtig descending, mittel fauxbourdon, mittel second steps in Bass, mittel homophon ]
 scorePath: fobo-abwaerts.krn
 midiPath: /kern/fobo-abwaerts.krn
 sounds: 

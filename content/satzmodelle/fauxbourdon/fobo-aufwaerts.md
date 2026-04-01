@@ -1,6 +1,6 @@
 ---
 title: Fauxbourdon aufwärts
-tags: [wichtig ascending, mittel fauxbourdon, mittel second steps in Bass, mittel homophon]
+tags: [wichtig ascending, mittel fauxbourdon, mittel second steps in bass, mittel homophon]
 scorePath: fobo-aufwaerts.krn
 midiPath: /kern/fobo-aufwaerts.krn
 sounds: 

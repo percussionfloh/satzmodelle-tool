@@ -1,6 +1,6 @@
 ---
 title: Fauxbourdon aufwärts, 7-6-Konsekutive
-tags: [wichtig ascending, mittel 7-6 consecutive, mittel fauxbourdon, mittel second steps in Bass, mittel syncopation chain, mittel 4Jump in cantus]
+tags: [wichtig ascending, mittel 7-6 consecutive, mittel fauxbourdon, mittel second steps in bass, mittel syncopation chain, mittel 4Jump in cantus]
 scorePath: fobo-7-6consecutive-aufwaerts.krn
 midiPath: /kern/fobo-7-6consecutive-aufwaerts.krn
 sounds: 

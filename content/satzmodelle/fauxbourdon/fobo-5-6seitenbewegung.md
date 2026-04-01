@@ -1,6 +1,6 @@
 ---
 title: Fauxbourdon 5-6 Seitenbewegung aufwärts
-tags: [wichtig ascending, wenig 5-6 motion, mittel fauxbourdon, mittel second steps in Bass]
+tags: [wichtig ascending, wenig 5-6 motion, mittel fauxbourdon, mittel second steps in bass]
 scorePath: fobo-5-6seitenbewegung.krn
 midiPath: /kern/fobo-5-6seitenbewegung.krn
 sounds: 

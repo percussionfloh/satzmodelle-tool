@@ -26,14 +26,14 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
         <h1 class="font-bold text-3xl">{{page.title}}</h1>
         <MidiPlayer :url="page.midiPath" class="text-2xl"/>
         <VerovioCanvas :url="localScoreUrlGenerator(page.scorePath)" class="bg-white"/>
-        <div class="flex gap-2">
+        <div class="flex flex-wrap gap-2">
             <div v-for="tag in page.tags" :key="tag">
                 <UBadge size="lg">{{ $t(tag) }}</UBadge>
             </div>
         </div>
         <ContentRenderer v-if="page" :value="page" />
     </div>
-    <div class="flex gap-2">
+    <div class="flex flex-wrap gap-2">
         <div v-for="sound in page.sounds" :key="sound.url">
         <UButton target="_blank" size="lg" :href="sound.url">{{ sound.label }}</UButton>
 </div>

@@ -3,7 +3,7 @@ export default defineAppConfig({
     colors: {
       primary: 'purple',
       secondary: 'fuchsia',
-      neutral: 'zinc'
+      neutral: 'violet'
     }
   },
     prose: {

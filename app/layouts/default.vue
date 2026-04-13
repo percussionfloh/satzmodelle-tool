@@ -26,8 +26,5 @@ html {
     font-size: 20px;
 }
 
-.bg-pattern {
-    background-color: oklch(52.142% 0.22153 342.885);
-    /* background-image: url("/background-pattern.jpg"); */
-}
+
 </style>

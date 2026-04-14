@@ -28,7 +28,7 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
         <VerovioCanvas :url="localScoreUrlGenerator(page.scorePath)" class="bg-white"/>
         <div class="flex flex-wrap gap-2">
             <div v-for="tag in page.tags" :key="tag">
-                <UBadge size="lg">{{ $t(tag) }}</UBadge>
+                <UBadge size="lg">{{ $t(`tag.${tag}`) }}</UBadge>
             </div>
         </div>
         <ContentRenderer v-if="page" :value="page" />

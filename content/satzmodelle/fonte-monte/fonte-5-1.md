@@ -1,6 +1,6 @@
 ---
 title: Fonte mit Bassklauseln
-tags: [wichtig descending, mittel bass cadences, mittel dominant-tonika, mittel ends on I, mittel quintfall, mittel ends on V, mittel descending fifths, mittel ascending fourths]
+tags: [descending, bass cadences, dominant-tonika, ends on I, quintfall, ends on V, descending fifths, ascending fourths]
 scorePath: fonte-5-1.krn
 midiPath: /kern/fonte-5-1.krn
 sounds:

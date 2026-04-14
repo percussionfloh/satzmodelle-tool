@@ -1,6 +1,6 @@
 ---
 title: Deutscher Übermäßiger Quintsextakkord
-tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, mittel ends on V, wenig with5, mittel soprano cadences]
+tags: [descending, -m2 in Bass, endsInDominant, D7sound, ends on V, with5, soprano cadences]
 scorePath: german.krn
 midiPath: /kern/german.krn
 sounds:

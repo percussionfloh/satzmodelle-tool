@@ -1,6 +1,6 @@
 ---
 title: Fonte mit Sopranklauseln
-tags: [wichtig descending, mittel soprano cadences, mittel dominant-tonika, mittel quintfall, mittel ends on I, mittel ends on V, mittel ascending minor seconds in bass]
+tags: [descending, soprano cadences, dominant-tonika, quintfall, ends on I, ends on V, ascending minor seconds in bass]
 scorePath: fonte-7-1.krn
 midiPath: /kern/fonte-7-1.krn
 sounds:

@@ -1,6 +1,6 @@
 ---
 title: Chromatischer Lamentobass
-tags: [wichtig descending, mittel MajorMinorParallelsim, mittel chromatic steps in bass, mittel ends on V, mittel endsInDominant]
+tags: [descending, MajorMinorParallelsim, chromatic steps in bass, ends on V, endsInDominant]
 scorePath: lam-chrom.krn
 midiPath: /kern/lam-chrom.krn
 sounds: 

@@ -16,5 +16,17 @@ export default defineContentConfig({
                 })),    
             }),
         }),
+        tags: defineCollection({
+            source: 'tags.yaml',
+            type: 'data',
+            schema: z.object({
+                tags: z.array(
+                    z.object({
+                        id: z.string(),
+                        type: z.string(),
+                    })
+                ),
+            }),
+        }),
     },
 }); 

@@ -1,0 +1,149 @@
+tags:
+    -
+        id: ascending
+        type: direction
+    -
+        id: descending
+        type: direction
+
+
+    -
+        id: fauxbourdon
+        type: main
+    -
+        id: second steps in bass
+        type: main
+    -
+        id: 7-6 consecutive
+        type: main
+    -
+        id: syncopation chain
+        type: main
+    -
+        id: syncopation
+        type: main
+    -
+        id: 4Jump in cantus
+        type: main
+    -
+        id: homophon:
+        type: main
+    -
+        id: bass cadences
+        type: main
+    -
+        id: soprano cadences
+        type: main
+    -
+        id: dominant-tonika
+        type: main
+    -
+        id: ends on I
+        type: main
+    -
+        id: ends on V
+        type: main
+    -
+        id: descending fifths
+        type: main
+    -
+        id: ascending fourths
+        type: main
+    -
+        id: ascending minor seconds in bass
+        type: main
+    -
+        id: -m2 in Bass
+        type: main
+    -
+        id: endsInDominant
+        type: main
+    -
+        id: D7sound
+        type: main
+    -
+        id: romanesca
+        type: main
+    -
+        id: MajorMinorParallelsim
+        type: main
+    # -
+    #     id: karussell
+    #     type: main
+    # -
+    #     id: lamento
+    #     type: main
+    # -
+    #     id: quintstieg
+    #     type: main
+    -
+        id: chromatic steps in discant
+        type: main
+    -
+        id: chromatic steps in bass
+        type: main
+    -
+        id: quintfall
+        type: main
+    -
+        id: descending thirds and ascending seconds in bass
+        type: main
+    -
+        id: seventh chords
+        type: main
+    -
+        id: tritone steps in bass
+        type: main
+    -
+        id: ascending fifths
+        type: main
+    -
+        id: ascending Romanesca
+        type: main
+    -
+        id: 6jump in bass down
+        type: main
+
+
+    -
+        id: without5
+        type: misc
+    -
+        id: with5
+        type: misc
+    -
+        id: with4
+        type: misc
+    -
+        id: 5-6 motion
+        type: misc
+    -
+        id: 4suspensions
+        type: misc
+    -
+        id: 9suspensions
+        type: misc
+    -
+        id: descendig 4 and ascending 2
+        type: misc
+    -
+        id: gymel
+        type: misc
+    -
+        id: seventh suspensions
+        type: misc
+    -
+        id: suspensions
+        type: misc
+    -
+        id: 3-6-chords
+        type: misc
+    -
+        id: 3-5-chords
+        type: misc
+    -
+        id: passing notes
+        type: misc
+    -
+        id: imitations
+        type: misc

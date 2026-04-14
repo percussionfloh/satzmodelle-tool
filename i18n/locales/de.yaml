@@ -5,58 +5,58 @@ faq: Häufig gestellte Fragen
 start: Start
 importantLinks: Wichtige Links
 legalNotice: Impressum
-siteMap: Sitemap
-wichtig ascending: aufwärts
-wichtig descending: abwärts
-wenig without5: Ohne Quinte
-wenig with5: mit Quinte
-wenig with4: mit Quarte
-wenig 5-6 motion: 5-6 Seitenbewegung (abwechselnd Grund- und Sextakkorde)
-mittel fauxbourdon: Fauxbourdon
-mittel second steps in bass: Sekundschritte im Bass
-mittel 7-6 consecutive: 7-6 Konsekutive
-mittel syncopation chain: Synkopenkette
-mittel syncopation: Synkopendissonanzen
-mittel 4Jump in cantus: Quartsprung in Oberstimme
-mittel homophon: homophon
-mittel bass cadences: Bassklauseln
-mittel soprano cadences: Sopranklauseln
-mittel dominant-tonika: Dominant-Tonika-Beziehungen
-mittel ends on I: endet auf I
-mittel ends on V: endet auf V
-mittel descending fifths: absteigende Quinten
-mittel ascending fourths: aufsteigende Quarten
-mittel ascending minor seconds in bass: aufsteigende kleine Sekunden im Bass
-mittel -m2 in Bass: absteigende kleine Sekunde im Bass
-mittel endsInDominant: endet auf Dominantklang (mit 7)
-mittel D7sound: Dominantseptakkordklang
-mittel romanesca: Romanesca
-wenig 4suspensions: Quartvorhalte
-wenig 9suspensions: Nonvorhalte
-wenig descendig 4 and ascending 2: absteigende Quarten und aufsteigende Sekunden im Bass
-wenig gymel: Gymel
-mittel MajorMinorParallelsim: Dur-Moll-Parallelismus
+sitemap: Sitemap
+tag.ascending: aufwärts
+tag.descending: abwärts
+tag.without5: Ohne Quinte
+tag.with5: mit Quinte
+tag.with4: mit Quarte
+tag.5-6 motion: 5-6 Seitenbewegung (abwechselnd Grund- und Sextakkorde)
+tag.fauxbourdon: Fauxbourdon
+tag.second steps in bass: Sekundschritte im Bass
+tag.7-6 consecutive: 7-6 Konsekutive
+tag.syncopation chain: Synkopenkette
+tag.syncopation: Synkopendissonanzen
+tag.4Jump in cantus: Quartsprung in Oberstimme
+tag.homophon: homophon
+tag.bass cadences: Bassklauseln
+tag.soprano cadences: Sopranklauseln
+tag.dominant-tonika: Dominant-Tonika-Beziehungen
+tag.ends on I: endet auf I
+tag.ends on V: endet auf V
+tag.descending fifths: absteigende Quinten
+tag.ascending fourths: aufsteigende Quarten
+tag.ascending minor seconds in bass: aufsteigende kleine Sekunden im Bass
+tag.-m2 in Bass: absteigende kleine Sekunde im Bass
+tag.endsInDominant: endet auf Dominantklang (mit 7)
+tag.D7sound: Dominantseptakkordklang
+tag.romanesca: Romanesca
+tag.4suspensions: Quartvorhalte
+tag.9suspensions: Nonvorhalte
+tag.descendig 4 and ascending 2: absteigende Quarten und aufsteigende Sekunden im Bass
+tag.gymel: Gymel
+tag.MajorMinorParallelsim: Dur-Moll-Parallelismus
+tag.karussell: Karussell
+tag.lamento: Lamentobass
+tag.quintstieg: Quintstieg
+tag.seventh suspensions: Septimvorhalte
+tag.suspensions: Vorhalte
+tag.chromatic steps in discant: chromatische Schritte in der Oberstimme
+tag.chromatic steps in bass: chromatische Schritte im Bass
+tag.quintfall: Quintfall (des Fundamentbasses)
+tag.3-6-chords: abwechselnd Grund- und Sextakkorde
+tag.descending thirds and ascending seconds in bass: absteigende Terzen und aufsteigende Sekunden im Bass
+tag.seventh chords: Septakkorde
+tag.tritone steps in bass: Tritonusschritte im Bass
+tag.3-5-chords: Grundakkorde
+tag.ascending fifths: ansteigende Quinten
+tag.passing notes: Durchgänge
+tag.imitations: Imitationen
+tag.ascending Romanesca: ansteigende Romanesca
+tag.6jump in bass down: Sextsprung im Bass abwärts
 tool: Tool
 augmentedSixthChords: Übermäßige Sextakkorde
 fonteMonte: Fonte & Monte
-mittel karussell: Karussell
-mittel lamento: Lamentobass
-mittel quintstieg: Quintstieg
-wenig seventh suspensions: Septimvorhalte
-wenig suspensions: Vorhalte
-mittel chromatic steps in discant: chromatische Schritte in der Oberstimme
-mittel chromatic steps in bass: chromatische Schritte im Bass
-mittel quintfall: Quintfall (des Fundamentbasses)
-wenig 3-6-chords: abwechselnd Grund- und Sextakkorde
-mittel descending thirds and ascending seconds in bass: absteigende Terzen und aufsteigende Sekunden im Bass
-mittel seventh chords: Septakkorde
-mittel tritone steps in bass: Tritonusschritte im Bass
-wenig 3-5-chords: Grundakkorde
-mittel ascending fifths: ansteigende Quinten
-wenig passing notes: Durchgänge
-wenig imitations: Imitationen
-mittel ascending Romanesca: ansteigende Romanesca
-mittel 6jump in bass down: Sextsprung im Bass abwärts
 Augmented6: Übermäßige Sextakkorde
 Omnibus Teufelsmuehle: Omnibus & Teufelsmühle
 Fonte Monte: Fonte & Monte

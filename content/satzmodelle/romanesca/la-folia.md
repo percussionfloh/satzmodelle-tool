@@ -1,6 +1,6 @@
 ---
 title: La Folia
-tags: [mittel ascending Romanesca, mittel bass cadences, mittel dominant-tonika, mittel ends on I]
+tags: [ascending Romanesca, bass cadences, dominant-tonika, ends on I]
 scorePath: la-folia.krn
 midiPath: /kern/la-folia.krn
 sounds:

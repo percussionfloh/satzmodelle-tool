@@ -1,6 +1,6 @@
 ---
 title: Monte mit Bassklauseln
-tags: [mittel dominant-tonika,  mittel descending fifths, mittel ascending fourths, mittel quintfall, mittel bass cadences, wichtig ascending]
+tags: [dominant-tonika,  descending fifths, ascending fourths, quintfall, bass cadences, ascending]
 scorePath: monte-5-1.krn
 midiPath: /kern/monte-5-1.krn
 sounds: 

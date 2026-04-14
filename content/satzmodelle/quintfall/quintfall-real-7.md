@@ -1,6 +1,6 @@
 ---
 title: Realer Quintfall mit Septakkorden
-tags: [mittel quintfall, mittel ascending fourths, wenig seventh suspensions, wichtig descending, mittel seventh chords, mittel descending fifths, mittel tritone steps in bass]
+tags: [quintfall, ascending fourths, seventh suspensions, descending, seventh chords, descending fifths, tritone steps in bass]
 scorePath: quintfall-real-7.krn
 midiPath: /kern/quintfall-real-7.krn
 sounds:

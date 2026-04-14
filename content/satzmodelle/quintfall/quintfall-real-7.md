@@ -13,7 +13,7 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - [Quintfallsequenz](app/pages/glossar), bei der der Bass immer **reine** Quinten fällt 
 - moduliert schnell in entfernte Tonarten
 - mit Septakkorden
@@ -21,7 +21,7 @@ defaultValue:
 - Septime geht direkt in die Terz und umgekehrt
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Reine Quintfallsequenzen sind typisch mit Septimen die kontrapunktisch nicht vorbereitet und aufgelöst werden. Es entstehen abwechselnd verminderte Quinten und übermässige Quarten. Die Septime geht direkt in die Terz und umgekehrt. Mozart verwendet diese Sequenz häufig und instrumentiert diese Tritoni sehr gerne in Fagotten.¹
 ::
 

@@ -15,7 +15,7 @@ defaultValue:
   - 'null'
 ---
 
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - Der Omnibus startet in einem dominantischen Quintsextakkord.
 - Die Terz in der Mitte bleibt die ganze Fortschreitung stehen.
 - Außenstimmen schreiten immer um jeweils eine kleine Sekunde auseinander, was zu folgender Klangreihenfolge führt:
@@ -25,7 +25,7 @@ defaultValue:
  - 4. Schritt: Dur-Septakkord in Grundstellung (7), (gleiche Harmonie wie beim Start)
 ::
 
-::accordion-item{label="Profi-Level"}
+::accordion-item{label="Vertiefung"}
 Der Omnibus startet in einem Dur-Quintsextakkord. Die beiden Außenstimmen schreiten beide eine kleine Sekunde auseinander.
 Dadurch entsteht ein übermäßiger Quintsextakkord (#6).  
 Die Außenstimmen schreiten wiederholen das Gleiche und ein Moll-Quartsextakkord (b6 4) klingt.   

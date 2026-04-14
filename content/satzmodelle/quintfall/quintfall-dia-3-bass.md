@@ -13,7 +13,7 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - [Quintfallsequenz](app/pages/glossar), die nur aus Tönen der Ausgangstonart besteht
 - es können verminderte Quinten vorkommen
 - Bass läuft eine Terz abwärts und eine Sekunde aufwärts
@@ -22,7 +22,7 @@ defaultValue:
 - es klingen Grundakkorde und Sextakkorde abwechselnd
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können. Hier ergeben Fundamentbässe immer noch eine Quintfallsequenz, diese ist aber mit dem Gegenschrittmodell 3 - 6 in den Aussenstimmen ausgearbeitet. So ergeben sich abwechselnd Grundakkorde und Sextakkorde.¹
 ::
 

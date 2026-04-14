@@ -15,14 +15,14 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - jedes Sequenzglied wird eine Quinte höher wiederholt
 - hier angereichert mit Quartvorhalten
 - um Quarte vorzubereiten, springt die Melodie um eine Quarte aufwärts, wird dann dissonant und löst sich dann nach unten auf 
 - auch das wird imitiert
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier wird der Quintanstieg mit Quartvorhalten angereichert. Damit der neue Quartvorhalt rechtzeitig vorbereitet werden kann, entsteht in der Melodieführung ein Quartsprung aufwärts.¹
 ::
 

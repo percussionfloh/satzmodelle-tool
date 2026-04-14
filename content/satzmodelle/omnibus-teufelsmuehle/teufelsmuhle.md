@@ -16,11 +16,11 @@ defaultValue:
   - 'null'
 ---
 
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 [Super erklärt von Ulrich Kaiser!](https://openmusic.academy/docs/o4GKsjbXs6UDD9vqmLPSLf/musikhochschule-satztechnik-zirkelmodelle-wegweiser)
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 "Seidel beschrieb die ›Teufelsmühle‹ [...] als eine Sequenz im Kleinterzabstand mit einer Akkordfolge aus drei Klängen – Dur-Septakkord, Moll-Quartsextakkord und verminderter Akkord oder ihren enharmonischen Varianten – über einer auf- oder absteigenden chromatischen Skala."¹ <br>
 ->[Vertiefung](https://www.gmth.de/zeitschrift/artikel/247.aspx)
 

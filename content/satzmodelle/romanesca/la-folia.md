@@ -13,13 +13,13 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - typische Harmoniefolge aus dem Barock:  i - V - i - VII - III - VII - i - V - i
 - Vorlage für Variationensatz
 - stammt aus dem Portugiesischen, bedeutet übersetzt „übermütige Ausgelassenheit“
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Die Folia ist eine typische Harmoniefolge aus dem Barock (i - V - i - VII - III - VII - i - V - i). Sie wird oft als Vorlage für einen Variationensatz genutzt und bedeutet aus dem Portugiesischen übersetzt „übermütige Ausgelassenheit“.
 ::
 

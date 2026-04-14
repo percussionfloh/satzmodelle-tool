@@ -13,12 +13,12 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - [Quintfallsequenz](app/pages/glossar), die nur aus Tönen der Ausgangstonart und Grundakkorden besteht
 - es können verminderte Quinten vorkommen¹
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können.¹ Hier klingen nur Grundakkorde.
 ::
 

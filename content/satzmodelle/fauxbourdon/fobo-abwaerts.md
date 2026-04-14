@@ -13,6 +13,6 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - Fauxbourdon nennt man schrittweise verschobene Sextakkorde, hier abwärts
 ::

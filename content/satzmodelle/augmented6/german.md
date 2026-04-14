@@ -17,14 +17,14 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - übermäßige Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI. Stufe in Moll vor
 - schreitet danach meistens zur V. Stufe (Dominante) fort
 - im Deutschen übermäßigen Quintsextkakkord klingt zusätzlich eine Quinte, d.h. er klingt wie ein Durseptakkord
 - Tipp: man findet ihn oft am Ende einer Durchführung
 ::
 
-::accordion-item{label="Profi-Level"}
+::accordion-item{label="Vertiefung"}
 Die übermäßigen Sextakkorde kommen auf der erniedrigten VI. Bassstufe in Dur oder auf der VI Stufe in Moll vor. Sie schreiten meistens zur V.  Stufe fort. Er kann allerdings auch anders weitergeführt werden, z.B. in die Tonika oder in den [Neapolitaner](/glossarLiteratur). Im Deutschen übermäßigen Quintsextkakkord klingt zusätzlich eine Quinte, d.h. er klingt wie ein Durseptakkord. Die Quintparallelen, die beim Auflösen in die Dominante entstehen, sind beispielsweise bei Mozart aber oft gesehen: Die sogenannten [Mozartquinten](/glossarLiteratur).
 - Tipp: man findet ihn oft am Ende einer Durchführung
 ::

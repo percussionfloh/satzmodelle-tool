@@ -13,14 +13,14 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - im Sopran eine Synkopenkette (3-2-Konsekutive)
 - Bass springt von der I eine Sexte abwärts, klettert in vier Sekundschritten aufwärts zur neuen I (die eine Terz tiefer liegt als der Startton)
 - Die Modulation geschieht im 3. Schritt
 - entweder diatonisch oder mit chromatischen Einfärbungen (harmonisch/melodisch Moll)
 ::
 
-::accordion-item{label="Profi-Level"}
+::accordion-item{label="Vertiefung"}
 Synkopenketten mit einer 3-2-Konsekutive können mit verschiedenen Bässen harmonisiert wer-
 den. Das sogenannte Karussell mit dem folgenden Bass eignet sich auch gut dafür. Es kann diatonisch
 gespielt werden, oder mit chromatischen Einfärbungen in entferntere Tonarten modulieren.

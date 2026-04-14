@@ -13,12 +13,12 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - jedes Sequenzglied wird eine Quinte höher wiederholt
 - hier verziert mit Durchgängen, die dazu noch imitiert werden
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Der Quintanstieg steigt von Sequenzglied zu Sequenzglied schrittweise in Quintanstiegen aufwärts. Hier ist die Sequenz mit Durchgängen verziert, die auch imitiert werden.¹
 ::
 

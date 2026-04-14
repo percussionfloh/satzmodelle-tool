@@ -18,7 +18,7 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - Die Begriffe Monte – Fonte kommen von [Joseph Riepel](https://www.deutsche-biographie.de/gnd11860094X.html#adbcontent)¹.
 - sind Sequenzen, die zuerst im [Menuett](/glossarLiteratur) vorkamen
 - Fonte-Sequenz ist eine Quintfallsequenz, die man in zwei (oder mehr) "Pakete" unterteilen kann
@@ -26,7 +26,7 @@ defaultValue:
 - Das zweite Paket endet entweder auf der I-Stufe, oder auf der V-Stufe -> Fonte Sequenz startet entweder auf einer "verdurten" VI-Stufe oder III-Stufe
 ::
 
-::accordion-item{label="Profi-Level"}
+::accordion-item{label="Vertiefung"}
 Die Begriffe Monte – Fonte kommen von [Joseph Riepel](https://www.deutsche-biographie.de/gnd11860094X.html#adbcontent)¹. Das sind Sequenzen, die zuerst im [Menuett](/glossarLiteratur) vorkamen. Eine Fonte-Sequenz ist eine Quintfallsequenz, die man in zwei (oder mehr) "Pakete" unterteilen kann. Im ersten "Paket" passiert eine Dominante-zu-Tonika-Fortschreitung (hier per Bassklausel). Im zweiten Paket geschieht das Gleiche, allerdings um eine Tonleiterstufe nach **unten** verschoben. Das zweite Paket endet entweder auf der I-Stufe, oder auf der V-Stufe. Daraus folgt, dass eine Fonte Sequenz entweder auf einer "verdurten" VI-Stufe oder III-Stufe startet.
 ::
 

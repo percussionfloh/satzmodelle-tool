@@ -13,13 +13,13 @@ sounds:
 defaultValue:
   - 'null'
 ---
-::accordion-item{label="Anfängerinnen-Level"}
+::accordion-item{label="Die Basics"}
 - [Quintfallsequenz](app/pages/glossar), bei der der Bass immer **reine** Quinten fällt 
 - moduliert schnell in entfernte Tonarten
 - nur Grundakkorde
 ::
 
-::accordion-item{label="Expertinnen-Level"}
+::accordion-item{label="Vertiefung"}
 Bei der realen Quintfallsequenz fällt der Bass von Ton zu Ton reine Quinten. Dieses Modell moduliert deswegen schnell in entfernte Tonarten.¹
 ::
 

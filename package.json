@@ -17,7 +17,7 @@
     "better-sqlite3": "^12.6.2",
     "midi-instrument-names-gm1-pmb": "^1.0.6",
     "midi-player-js": "^2.0.16",
-    "nuxt": "^4.3.1",
+    "nuxt": "^4.4.2",
     "pinia": "^3.0.4",
     "soundfont-player": "^0.12.0",
     "tailwindcss": "^4.2.1",

@@ -1,6 +1,6 @@
 ---
 title: Italienischer Übermäßiger Sextakkord
-tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, wenig without5, mittel soprano cadences]
+tags: [descending, -m2 in Bass, endsInDominant, D7sound, without5, soprano cadences]
 scorePath: italian.krn
 midiPath: /kern/italian.krn
 sounds: 

@@ -1,6 +1,6 @@
 ---
 title: Französischer Übermäßiger Quartsextakkord
-tags: [wichtig descending, mittel -m2 in Bass, mittel endsInDominant, mittel D7sound, wenig without5, wenig with4, mittel ends on V, mittel soprano cadences]
+tags: [descending, -m2 in Bass, endsInDominant, D7sound, without5, with4, ends on V, soprano cadences]
 scorePath: french.krn
 midiPath: /kern/french.krn
 sounds:

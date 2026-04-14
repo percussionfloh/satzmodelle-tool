@@ -1,6 +1,6 @@
 ---
 title: Teufelsmühle
-tags: [mittel chromatic steps in bass, mittel chromatic steps in discant, mittel D7sound, mittel endsInDominant, wichtig descending, wichtig ascending]
+tags: [chromatic steps in bass, chromatic steps in discant, D7sound, endsInDominant, descending, ascending]
 scorePath: teufelsmuhle.krn
 midiPath: /kern/teufelsmuhle.krn
 sounds:

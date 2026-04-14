@@ -1,6 +1,6 @@
 ---
 title: Lamentobass, 7-6-Konsekutive
-tags: [wichtig descending, mittel second steps in bass, mittel syncopation chain, wenig seventh suspensions, wenig suspensions, mittel ends on V, mittel endsInDominant]
+tags: [descending, second steps in bass, syncopation chain, seventh suspensions, suspensions, ends on V, endsInDominant]
 scorePath: lam-7-6consecutive.krn
 midiPath: /kern/lam-7-6consecutive.krn
 sounds: 

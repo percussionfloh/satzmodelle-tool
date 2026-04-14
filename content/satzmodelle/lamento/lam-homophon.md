@@ -1,6 +1,6 @@
 ---
 title: Lamentobass, homophon
-tags: [descending, second steps in bass, ends on V, endsInDominant]
+tags: [descending, second steps in bass, ends on V, lamento, endsInDominant]
 scorePath: lam-homophon.krn
 midiPath: /kern/lam-homophon.krn
 sounds:

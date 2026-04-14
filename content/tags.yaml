@@ -1,20 +1,21 @@
 tags:
     -
-        id: ascending
-        type: direction
-    -
         id: descending
         type: direction
+    -
+        id: ascending
+        type: direction
+
 
 
     -
         id: fauxbourdon
+        type: mai
+    -
+        id: 7-6 consecutive
         type: main
     -
         id: second steps in bass
-        type: main
-    -
-        id: 7-6 consecutive
         type: main
     -
         id: syncopation chain
@@ -26,7 +27,7 @@ tags:
         id: 4Jump in cantus
         type: main
     -
-        id: homophon:
+        id: homophon
         type: main
     -
         id: bass cadences
@@ -70,9 +71,9 @@ tags:
     # -
     #     id: karussell
     #     type: main
-    # -
-    #     id: lamento
-    #     type: main
+    -
+        id: lamento
+        type: main
     # -
     #     id: quintstieg
     #     type: main

@@ -4,8 +4,13 @@ const { t } = useI18n();
 
 const columns = [
     {
-        label: t('legalNotice'),
-        to: localePath('legal-notice'),
+        label: t('sitemap'),
+        children: [
+            {
+                label: t('legalNotice'),
+                to: localePath('legal-notice'),
+            },
+        ],
     },
 ];
 </script>

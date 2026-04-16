@@ -19,7 +19,7 @@ export default defineNuxtConfig({
             currentCommitSha,
         },
     },
-    modules: ['@nuxt/content', '@nuxt/ui', '@pinia/nuxt', '@nuxtjs/i18n', '@nuxt/scripts'],
+    modules: ['@nuxt/content', '@nuxt/ui', '@pinia/nuxt', '@nuxtjs/i18n'],
     css: ['~/assets/main.css'],
     i18n: {
         strategy: 'prefix_except_default',
@@ -48,12 +48,5 @@ export default defineNuxtConfig({
                 'neutral',
             ],
         },
-    },
-    scripts: {
-        registry: {
-            youtubePlayer: {
-              trigger: 'onNuxtReady',
-            }
-        }
     }
 });

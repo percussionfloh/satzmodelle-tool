@@ -1,4 +1,7 @@
 <script setup>
+import LiteYouTubeEmbed from 'vue-lite-youtube-embed'
+import 'vue-lite-youtube-embed/style.css'
+
 const { data: satzmodelle } = await useAsyncData(`satzmodelle/*`, () => queryCollection('satzmodelle').all());
 
 
@@ -35,9 +38,25 @@ const { localScoreUrlGenerator } = useScoreUrlGenerator();
     </div>
     <div class="flex flex-wrap gap-2">
         <div v-for="sound in page.sounds" :key="sound.url">
-        <UButton target="_blank" size="lg" :href="sound.url">{{ sound.label }}</UButton>
-</div>
+            <UButton target="_blank" size="lg" :href="sound.url">{{ sound.label }}</UButton>
+        </div>
+        <div v-for="video in page.videos" :key="video.id">
+            <iframe 
+                width="1120" 
+                height="630" 
+                :src="`https://www.youtube-nocookie.com/embed/${video.id}${video.start ? '?start=' + video.start : ''}`" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; 
+                autoplay; 
+                clipboard-write; 
+                encrypted-media; 
+                gyroscope; 
+                picture-in-picture; 
+                web-share" 
+                referrerpolicy="strict-origin-when-cross-origin" 
+                allowfullscreen>
+            </iframe>
+        </div>
     </div>
 </template>
-
-                

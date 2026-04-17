@@ -10,6 +10,9 @@ sounds:
     url: "https://youtu.be/Si09rmEy3Mg?si=anbWoCesLb889AXc&t=42"
   - label: "Josephine Lang - An den See, aus 6 Deutsche Lieder Op. 14"
     url: "https://youtu.be/YzmHYeCtVsE?si=my1el1kKlUDQtbMw&t=16"
+videos:
+  - id: "ZOTNiffVuyg"
+    start: 0
 ---
 
 ::accordion

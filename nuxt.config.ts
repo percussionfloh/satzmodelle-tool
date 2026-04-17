@@ -20,7 +20,7 @@ export default defineNuxtConfig({
         },
     },
     modules: ['@nuxt/content', '@nuxt/ui', '@pinia/nuxt', '@nuxtjs/i18n'],
-    css: ['~/assets/main.css'],
+    css: ['~/assets/main.css', 'vue-lite-youtube-embed/style.css'],
     i18n: {
         strategy: 'prefix_except_default',
         locales: [

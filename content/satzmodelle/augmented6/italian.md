@@ -6,6 +6,9 @@ midiPath: /kern/italian.krn
 sounds: 
   - label: "Clara Schumann - Warum willst du and're fragen, Op.12/11 (Tipp von Clarissa Merz)"
     url: "https://youtu.be/DIOonfoa0Jo?si=wJ3IlKZ45P0gM6KY"
+videos:
+  - id: "3GvQ1-z5DNM"
+    start: 0
 ---
 
 ::accordion

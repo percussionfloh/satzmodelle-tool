@@ -6,6 +6,9 @@ midiPath: /kern/omnibus.krn
 sounds:
   - label: "Franz Schubert - Piano Sonata No. 16, D845"
     url: "https://youtu.be/QyTb0ThLCyo?si=oRkyCxOXxqDm1DVL&t=67"
+videos: 
+  - id: "Z-dVGROn6Z0"
+    start: 249
 ---
 
 

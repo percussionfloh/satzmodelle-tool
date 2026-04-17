@@ -16,6 +16,7 @@
     "@nuxtjs/i18n": "^10.2.3",
     "@pinia/nuxt": "^0.11.3",
     "better-sqlite3": "^12.6.2",
+    "lite-youtube-embed": "^0.3.4",
     "midi-instrument-names-gm1-pmb": "^1.0.6",
     "midi-player-js": "^2.0.16",
     "nuxt": "^4.4.2",
@@ -24,6 +25,7 @@
     "tailwindcss": "^4.2.1",
     "verovio": "^6.0.1",
     "vue": "^3.5.28",
+    "vue-lite-youtube-embed": "^1.2.4",
     "vue-router": "^5.0.4",
     "vue-verovio-canvas": "^1.6.4"
   },

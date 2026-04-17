@@ -13,6 +13,11 @@ export default defineContentConfig({
                 sounds: z.array(z.object({
                     label: z.string(),
                     url: z.string().url(),
+                })),
+                videos: z.array(z.object({
+                    id: z.string(),
+                    title: z.string(),
+                    start: z.number(),
                 })),    
             }),
         }),

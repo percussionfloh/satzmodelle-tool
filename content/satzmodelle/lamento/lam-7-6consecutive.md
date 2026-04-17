@@ -4,8 +4,13 @@ tags: [descending, second steps in bass, syncopation chain, seventh suspensions,
 scorePath: lam-7-6consecutive.krn
 midiPath: /kern/lam-7-6consecutive.krn
 sounds: 
-  - label: "Arcangelo Corelli - Sonata da chiesa Op.1 No4, 4. Presto"
+  - label: "Arcangelo Corelli - Sonata da chiesa Op.1 No.4, 4. Presto"
     url: "https://youtu.be/hQxFJp4o3Vw?si=_zUkDYYWlAV4gekA&t=233"
+  - label: "Nicholas Hooper - Harry Potter and the Half-Blood Prince: Dumbledore's Farewell"
+    url: "https://youtu.be/Ox3laUdQsn8?si=ymtOIanQL_41JK0y"
+videos:
+  - id: "Sois056oa-8"
+    start: 1
 ---
 
 ::accordion

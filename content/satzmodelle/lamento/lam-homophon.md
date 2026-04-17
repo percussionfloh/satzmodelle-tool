@@ -4,14 +4,16 @@ tags: [descending, second steps in bass, ends on V, lamento, endsInDominant]
 scorePath: lam-homophon.krn
 midiPath: /kern/lam-homophon.krn
 sounds:
-  - label: "Nicholas Hooper - Harry Potter and the Half-Blood Prince: Dumbledore's Farewell"
-    url: "https://youtu.be/Ox3laUdQsn8?si=ymtOIanQL_41JK0y"
   - label: "Muse - Thoughts of a dying atteist"
     url: "https://youtu.be/tQcjpJHr5BI?si=3wwFViCQyEHosCx4&t=4"
   - label: "Ray Charles - Hit the road Jack (Tipp von Marius Barendt) "
     url: "https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p"
   - label: "Los Auténticos Decadentes - La guitarra (Tipp von Marius Barendt)"
     url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
+  - label:
+    videoId:
+    type: youtube
+    start: 28
 
 ---
 

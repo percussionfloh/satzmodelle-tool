@@ -10,11 +10,8 @@ sounds:
     url: "https://youtu.be/SrnWp5O0DEs?si=t8JWz0_oalVTJu3p"
   - label: "Los Auténticos Decadentes - La guitarra (Tipp von Marius Barendt)"
     url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
-  - label:
-    videoId:
-    type: youtube
-    start: 28
-
+  - label: "Robert Schumann - Kind im Einschlummern, Kinderszenen Op.15"
+    url: "https://youtu.be/odEKxgi2yto?si=IsSwjVD4e8X5dHUJ&t=17"
 ---
 
 ::accordion

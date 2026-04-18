@@ -12,6 +12,9 @@ sounds:
     url: "https://youtu.be/ID-iJOw9rLo?si=ZHjBB523n7N9vl-c&t=50"
   - label: "Robert Schumann - Kind im Einschlummern, Kinderszenen Op.15"
     url: "https://youtu.be/odEKxgi2yto?si=IsSwjVD4e8X5dHUJ&t=17"
+videos:
+  - id: "Yi5LTWvJoHA"
+    start: 0
 ---
 
 ::accordion
@@ -20,16 +23,10 @@ defaultValue:
   - 'null'
 ---
 ::accordion-item{label="Die Basics"}
-- Bass steigt schrittweise von der I. Stufe zur V. ab. 
+- Bass fällt schrittweise von der I. Stufe zur V. ab. 
 - kommt vorallem in einem Moll-Kontext vor
 - Der Bass wird klassisch gemäss der Oktavregel harmonisiert (Grundakkord, 6, 6, #)
-- In Jazz/Pop-Kontexten variiert die Harmonisierung oft
-::
-
-::accordion-item{label="Vertiefung"}
-[YouTube: The Saddest Bassline | Lament Bass from Baroque to Pop & beyond](https://www.youtube.com/watch?v=Yi5LTWvJoHA) <br>
-[Youtube: The Music That Links Dumbledore's Death to Bach and Radiohead](https://youtu.be/Sois056oa-8?si=yfTAE6ZzdbugcGTP&t=464)
-
+- In Jazz/Pop-Kontexten variiert die Harmonisierung oft¹
 ::
 
 ::

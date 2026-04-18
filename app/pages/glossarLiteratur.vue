@@ -51,6 +51,17 @@ const localePath = useLocalePath();
                     <p class="text-lg">
                         openmusic.academy, Artikel »Zirkelmodelle (1) - Das ›Wegweiser‹-Modell«, https://openmusic.academy/docs/o4GKsjbXs6UDD9vqmLPSLf/musikhochschule-satztechnik-zirkelmodelle-wegweiser, 24.03.2026, 17:10
                     </p>
+                    <p class="text-lg">
+                        Weiss, Michael (2013) “The Nineteenth-Century Fonte : The Continuing Tradition of a Galant Musical Pattern.” dissertation.
+                    </p>
+                    <p class="text-lg">
+                        Demeyere, Ewald (2026) "Some more Montes" https://essaysonmusic.com/some-more-montes/
+                    </p>
+                    <p class="text-lg">
+                        Karussell (Musiktheorie) (04/2026): https://essaysonmusic.com/some-more-montes/
+                    </p>
+                    <p class="text-lg">
+                        Lewandowski, Stephan (2010): ›Fallende Quintanstiege‹. Ein Modellversuch. ZGMTH 7/1, 85–97. https://doi.org/10.31751/508                    </p>
                 </div>
             </section>
         </SectionContainer>

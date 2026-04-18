@@ -21,12 +21,11 @@ defaultValue:
 ::
 
 ::accordion-item{label="Vertiefung"}
-Synkopenketten mit einer 3-2-Konsekutive können mit verschiedenen Bässen harmonisiert wer-
-den. Das sogenannte Karussell mit dem folgenden Bass eignet sich auch gut dafür. Es kann diatonisch
-gespielt werden, oder mit chromatischen Einfärbungen in entferntere Tonarten modulieren.
+[Wikipedia-Artikel zum Karussell²](https://de.wikipedia.org/wiki/Karussell_(Musiktheorie)#cite_ref-3)
 ::
 
 
 ::
 
 ¹Drescher, 2019
+²Wikipedia, 2026

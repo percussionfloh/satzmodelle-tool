@@ -10,7 +10,6 @@ sounds:
     url: "https://youtu.be/Z3RIb9rbYZw?si=...&t=39"
   - label: "Catherine Russell - Alone Together (Tipp von Marius Barendt)"
     url: "https://youtu.be/Y4bK5_48a5U?si=9EfJulnzb7nT6Es-&t=70"
-
 ---
 
 ::accordion
@@ -27,14 +26,10 @@ defaultValue:
 ::
 
 ::accordion-item{label="Vertiefung"}
-Die Begriffe Monte – Fonte kommen von [Joseph Riepel](https://www.deutsche-biographie.de/gnd11860094X.html#adbcontent)¹. Das sind Sequenzen, die zuerst im [Menuett](/glossarLiteratur) vorkamen. Eine Fonte-Sequenz ist eine Quintfallsequenz, die man in zwei (oder mehr) "Pakete" unterteilen kann. Im ersten "Paket" passiert eine Dominante-zu-Tonika-Fortschreitung (hier per Bassklausel). Im zweiten Paket geschieht das Gleiche, allerdings um eine Tonleiterstufe nach **unten** verschoben. Das zweite Paket endet entweder auf der I-Stufe, oder auf der V-Stufe. Daraus folgt, dass eine Fonte Sequenz entweder auf einer "verdurten" VI-Stufe oder III-Stufe startet.
-::
-
-::accordion-item{label="Expertinnen-Level"}
-Die Begriffe Monte – Ponte – Fonte kommen von [Joseph Riepel](https://www.deutsche-biographie.de/gnd11860094X.html#adbcontent)¹. Sie bezeichnen Sequenzen
-die formal und harmonisch an bestimmten Stellen eines [Menuetts](/glossarLiteratur) stehen (als «Mittelteil»). Fonte ist im Unterschied zur Quintfallsequenz eine Sequenz die schrittweise 5 – 1 im Fundamentbass fällt (hier per Bassklausel), wobei sich die 5 –Stufe zwingend dominantisch verhält. Diese Sequenz hat in der Regel nur zwei Sequenzglieder und endet entweder auf der I-Stufe, oder auf der V-Stufe.
+[Michael Weiss - The nineteenth-century Fonte : the continuing tradition of a galant musical pattern²](https://search.worldcat.org/de/title/851392692){:target="_blank"}
 ::
 
 ::
 
-¹Drescher, 2019
+¹Drescher, 2019 <br>
+²Weiss, 2013

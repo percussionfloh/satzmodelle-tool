@@ -10,6 +10,8 @@ sounds:
     url: "https://youtu.be/G73RIBsMA5Y?si=kFtMDS5JDUN9XwJh&t=15"
   - label: "Johann S. Bach - Partita for Violin No.2 in D Minor BWV 1004, Chaconne (chromatischer Bass!)"
     url: "https://youtu.be/lpe7thXd69E?si=WRRRIYdP3YVBhQPw&t=784"
+  - label: "Gloria Gaynor - I will survive"
+    url: "https://youtu.be/UUsArBFitgE?si=xPZIYQ-emODgCA23&t=7"
 ---
 
 ::accordion
@@ -25,7 +27,7 @@ defaultValue:
 ::
 
 ::accordion-item{label="Vertiefung"}
-Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können.¹ Hier klingen auch Septakkorde (klein und groß).
+[Falling Fifth-Sequences](https://youtu.be/WcpR5TpG7Ig?si=iaeoI3jYr0WBK82P){:target="_blank"}
 ::
 
 ::

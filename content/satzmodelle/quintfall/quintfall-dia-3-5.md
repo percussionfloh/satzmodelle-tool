@@ -6,6 +6,10 @@ midiPath: /kern/quintfall-dia-3-5.krn
 sounds:
   - label: "Cuba Feliz - Lagrimas Negras"
     url: "https://youtu.be/Pt3YiSzXBnw?si=LY6VvE4VPEIZfWlg&t=79"
+
+videos:
+  - id: "DQJmicTFGQ"
+    start: 0
 ---
 
 ::accordion
@@ -16,10 +20,6 @@ defaultValue:
 ::accordion-item{label="Die Basics"}
 - [Quintfallsequenz](app/pages/glossar), die nur aus Tönen der Ausgangstonart und Grundakkorden besteht
 - es können verminderte Quinten vorkommen¹
-::
-
-::accordion-item{label="Vertiefung"}
-Die diatonische Quintfallsequenz bleibt innerhalb der Töne der ursprünglichen Tonart, wodurch auch verminderte Quinten entstehen können.¹ Hier klingen nur Grundakkorde.
 ::
 
 ::

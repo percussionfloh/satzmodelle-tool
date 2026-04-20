@@ -61,7 +61,11 @@ const localePath = useLocalePath();
                         Karussell (Musiktheorie) (04/2026): https://essaysonmusic.com/some-more-montes/
                     </p>
                     <p class="text-lg">
-                        Lewandowski, Stephan (2010): ›Fallende Quintanstiege‹. Ein Modellversuch. ZGMTH 7/1, 85–97. https://doi.org/10.31751/508                    </p>
+                        Lewandowski, Stephan (2010): ›Fallende Quintanstiege‹. Ein Modellversuch. ZGMTH 7/1, 85–97. https://doi.org/10.31751/508
+                    </p>
+                    <p class="text-lg">
+                        https://viva.pressbooks.pub/openmusictheory/chapter/chromatic-sequences/
+                    </p>
                 </div>
             </section>
         </SectionContainer>

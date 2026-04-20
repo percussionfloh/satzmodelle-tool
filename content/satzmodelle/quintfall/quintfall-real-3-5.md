@@ -20,9 +20,8 @@ defaultValue:
 ::
 
 ::accordion-item{label="Vertiefung"}
-Bei der realen Quintfallsequenz fällt der Bass von Ton zu Ton reine Quinten. Dieses Modell moduliert deswegen schnell in entfernte Tonarten.¹
+[Bryn Hughes - Chromatic Sequences²](https://viva.pressbooks.pub/openmusictheory/chapter/chromatic-sequences/){:target="_blank"}
 ::
 
-::
-
-¹Drescher, 2019
+¹Drescher, 2019 <br>
+²Hughes, 2023

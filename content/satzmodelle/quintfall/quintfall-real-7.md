@@ -22,9 +22,8 @@ defaultValue:
 ::
 
 ::accordion-item{label="Vertiefung"}
-Reine Quintfallsequenzen sind typisch mit Septimen die kontrapunktisch nicht vorbereitet und aufgelöst werden. Es entstehen abwechselnd verminderte Quinten und übermässige Quarten. Die Septime geht direkt in die Terz und umgekehrt. Mozart verwendet diese Sequenz häufig und instrumentiert diese Tritoni sehr gerne in Fagotten.¹
+[Bryn Hughes - Chromatic Sequences²](https://viva.pressbooks.pub/openmusictheory/chapter/chromatic-sequences/){:target="_blank"}
 ::
 
-::
-
-¹Drescher, 2019
+¹Drescher, 2019 <br>
+²Hughes, 2023

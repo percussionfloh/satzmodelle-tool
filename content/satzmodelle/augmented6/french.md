@@ -1,5 +1,5 @@
 ---
-title: Französischer Übermäßiger Quartsextakkord
+title: Französischer Übermäßiger Terzquartakkord
 tags: [descending, -m2 in Bass, endsInDominant, D7sound, without5, with4, ends on V, soprano cadences]
 scorePath: french.krn
 midiPath: /kern/french.krn

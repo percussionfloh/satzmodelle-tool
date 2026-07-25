@@ -31,7 +31,7 @@ const localePath = useLocalePath();
                         </div>
                         <div>
                         <h2 class="font-bold text-2xl">Fundamentbass</h2>
-                            <p class="text-lg">Der tiefste Ton eines Akkords, wenn man die vorliegende Umkehrung in Terzen schichtet. In manchen Fällen (verkürzter D7b9) muss er hinzugedacht werden.</p>
+                            <p class="text-lg">Der tiefste Ton eines Akkords, wenn man die vorliegende Umkehrung in Terzen schichtet. Der Fundamentbass eines Verkürzten Dominantseptnonakkordes mit den Tönen a, c, fis, e ist fis.</p>
                         </div>
                     </div>
                 </div>
